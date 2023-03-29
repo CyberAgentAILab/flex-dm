@@ -1,0 +1,9 @@
+name: crello-texts
+columns:
+  text_hash:
+    is_sequence: true
+    dtype: string
+  text_embedding:
+    is_sequence: true
+    shape: [512]
+    dtype: float32

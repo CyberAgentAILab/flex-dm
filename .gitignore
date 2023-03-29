@@ -1,0 +1,11 @@
+.env
+.mypy_cache
+
+data/*
+results/*
+tmp
+pyproject.toml
+
+*.pyc
+*.egg-info
+*gcp*

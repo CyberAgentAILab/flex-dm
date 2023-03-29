@@ -1,0 +1,4989 @@
+@font-face {
+    font-family: Abril Fatface Regular_old;
+    src: url(https://cdn.crello.com/common/3276014d-dc9e-41a9-951f-5baae4f7bae2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Aldrich Regular_old;
+    src: url(https://cdn.crello.com/common/31850463-d708-40d5-8f3c-1522d7749c53_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Alef Bold_old;
+    src: url(https://cdn.crello.com/common/9b110c13-038b-4c38-a470-0be13dcbb7aa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Alef Regular_old;
+    src: url(https://cdn.crello.com/common/f7727056-b9e8-408e-aea8-b542b80d115d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Alegreya Sans Bold_old;
+    src: url(https://cdn.crello.com/common/a141956c-d99c-45b5-821a-2f3befa418e8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Alegreya Sans BoldItalic_old;
+    src: url(https://cdn.crello.com/common/3808f98d-d33f-4619-a869-c5f3cde6b318_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Alegreya Sans Italic_old;
+    src: url(https://cdn.crello.com/common/e369300d-5b98-49bd-8649-d5c99151dac2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Alegreya Sans Regular_old;
+    src: url(https://cdn.crello.com/common/5068e799-c0be-4a8c-b782-9322c09ed407_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Alfa Slab One Regular_old;
+    src: url(https://cdn.crello.com/common/c6f9f837-c912-4f1f-b930-4f92ca3573d0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Alice Regular_old;
+    src: url(https://cdn.crello.com/common/6b0b4dbe-3eda-489e-9024-cdeb0ba14831_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Allerta Stencil Regular_old;
+    src: url(https://cdn.crello.com/common/791411cb-3d4f-4501-a27a-01ad48371dfa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Allura Regular_old;
+    src: url(https://cdn.crello.com/common/c0a4fb43-584a-4099-9336-716bd97f7bcf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: AmaticSC Bold_old;
+    src: url(https://cdn.crello.com/common/584d24da-b8d5-4d55-9c36-ba0caa9425c5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: AmaticSC Regular_old;
+    src: url(https://cdn.crello.com/common/96510cab-4be5-4c50-9fc7-eb57f189eba5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Anton_old;
+    src: url(https://cdn.crello.com/common/37958d69-362b-44f5-97da-fdead1679a3f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arapey Italic_old;
+    src: url(https://cdn.crello.com/common/4feee22c-4abc-4274-85ff-8536f4988da9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arapey Regular_old;
+    src: url(https://cdn.crello.com/common/d665d0bc-8739-4ca5-ab6c-8c28f1187c16_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Architects Daughter_old;
+    src: url(https://cdn.crello.com/common/ee4e9613-652d-4743-b1ef-e885e665743d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arima Madurai Bold_old;
+    src: url(https://cdn.crello.com/common/2fa58ac9-a887-42bd-90eb-ae86e1447383_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arima Madurai Regular_old;
+    src: url(https://cdn.crello.com/common/8c46930d-e677-4f49-9582-0567e45f2356_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arimo Bold_old;
+    src: url(https://cdn.crello.com/common/c7f832fa-2a2a-491f-9442-90728a095974_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arimo BoldItalic_old;
+    src: url(https://cdn.crello.com/common/51c25379-fb96-4d06-9b66-1f50aa2f1a09_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arimo Italic_old;
+    src: url(https://cdn.crello.com/common/29a2253c-c475-4618-96d6-3d364e90beba_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arimo Regular_old;
+    src: url(https://cdn.crello.com/common/3c6e2c6d-6387-4005-8b15-fac61b957ec0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arizonia Regular_old;
+    src: url(https://cdn.crello.com/common/8dcbfe7c-8c09-42d8-be6b-0e4a65bcf225_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Arkana Script_old;
+    src: url(https://cdn.crello.com/common/adf6d861-17bf-4974-be4d-55562127cde5_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Armata Regular_old;
+    src: url(https://cdn.crello.com/common/26dcd5c6-aa21-46e2-9dca-07a1ad81aad7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Assistant Bold_old;
+    src: url(https://cdn.crello.com/common/34cec70e-6232-47e6-a820-073092f211e2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Assistant Regular_old;
+    src: url(https://cdn.crello.com/common/e728a3c5-c2c3-419b-b550-4cb8fcb5f985_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Bad Script Regular_old;
+    src: url(https://cdn.crello.com/common/7f226882-6d81-48e4-8a56-ec86c93b64cf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Baloo Tamma Regular_old;
+    src: url(https://cdn.crello.com/common/cea7ce93-ec81-42e8-8825-540893a6baa5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Bangers_old;
+    src: url(https://cdn.crello.com/common/6c551c5a-b639-4170-ae16-7a6864410b1e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Barrio Regular_old;
+    src: url(https://cdn.crello.com/common/985e163f-1417-494f-a06d-cd1e7633b214_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Beacon_old;
+    src: url(https://cdn.crello.com/common/02cf01df-6177-4684-950c-fbf0915c9d4e_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Bebas Neue Bold_old;
+    src: url(https://cdn.crello.com/common/ea5a4f52-b341-4cf7-b258-1755747256fe_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Bebas Neue Regular_old;
+    src: url(https://cdn.crello.com/common/c165bd88-ae3e-4f65-9db3-c37a2d24cffa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Bellefair Regular_old;
+    src: url(https://cdn.crello.com/common/cbe98524-43f9-4525-b4be-f40e9233359f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Bentham Regular_old;
+    src: url(https://cdn.crello.com/common/4511e502-8c37-4d71-b8e0-7a52c048304a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Berkshire Swash Regular_old;
+    src: url(https://cdn.crello.com/common/5c468433-f4de-4a1b-84b1-35c5895b43d0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Bilbo Regular_old;
+    src: url(https://cdn.crello.com/common/5de62a01-040c-49a2-911e-d28e970acbd5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Black Ops One Regular_old;
+    src: url(https://cdn.crello.com/common/4d0a58dc-0e10-4d0d-9e4a-d277c6fa72e1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Blogger Sans_old;
+    src: url(https://cdn.crello.com/common/f19ac81b-58be-4e0d-be6b-b41845ebcd8d_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Blogger Sans Bold_old;
+    src: url(https://cdn.crello.com/common/64b10073-6cb5-42fc-becb-26501802f0d9_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Blogger Sans BoldItalic_old;
+    src: url(https://cdn.crello.com/common/e3d1d6ca-afba-443b-b117-a5140d98c961_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Blogger Sans Italic_old;
+    src: url(https://cdn.crello.com/common/e529f7ee-2f3d-426e-9719-d6d56602e47a_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Breathe Press_old;
+    src: url(https://cdn.crello.com/common/1000d7f9-bdac-4d67-ad07-2b944b98bf1b_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Breathe Regular_old;
+    src: url(https://cdn.crello.com/common/49bb0628-514c-43b9-b80e-2d9afe387ab5_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Brusher Regular_old;
+    src: url(https://cdn.crello.com/common/33ebc2a4-7902-478c-b2a0-70fdbb3c5a40_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Bubbler One Regular_old;
+    src: url(https://cdn.crello.com/common/b6ed80e4-1361-4635-9a48-d2c6cc64d5d2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Buda Light_old;
+    src: url(https://cdn.crello.com/common/daaead7f-bdf7-4b59-8514-80c5f37508d5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Bungee Regular_old;
+    src: url(https://cdn.crello.com/common/9ac549cd-58d7-4497-b80b-883ec91a84d9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Bungee Shade Regular_old;
+    src: url(https://cdn.crello.com/common/5425fd8e-d41b-47ed-867f-96113b16064f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cabin Sketch Bold_old;
+    src: url(https://cdn.crello.com/common/8ccb351b-bf24-4dd0-be68-77fb690325b8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cabin Sketch Regular_old;
+    src: url(https://cdn.crello.com/common/72a3a3f8-da4f-4df8-9b74-140dad542ded_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Caesar Dressing Regular_old;
+    src: url(https://cdn.crello.com/common/6309754b-3649-4d19-a7a8-409785bf3b41_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cantarell Bold_old;
+    src: url(https://cdn.crello.com/common/95b930fc-5899-4433-bbb2-bede135551d0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cantarell BoldItalic_old;
+    src: url(https://cdn.crello.com/common/e2dc1d68-3e29-414c-869e-3f1236fc732b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cantarell Italic_old;
+    src: url(https://cdn.crello.com/common/207f4620-89fc-4263-ab18-3487676cc11b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cantarell Regular_old;
+    src: url(https://cdn.crello.com/common/ce5652ae-8ddf-46ca-bacf-92b267eebf27_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Carter One_old;
+    src: url(https://cdn.crello.com/common/18fb79d8-a8a6-4550-8599-71ee86fc8351_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Caveat Bold_old;
+    src: url(https://cdn.crello.com/common/a06855d9-1bac-42b1-b092-94b1035816ec_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Caveat Regular_old;
+    src: url(https://cdn.crello.com/common/5bc76cb6-f4f9-4321-b067-3b42fa2f1e86_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cedarville Cursive_old;
+    src: url(https://cdn.crello.com/common/8721c799-f290-4032-8c73-fcc8a886e351_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Chathura Bold_old;
+    src: url(https://cdn.crello.com/common/0598855e-1a73-4b84-835a-d19b0fc7cb0f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Chathura Regular_old;
+    src: url(https://cdn.crello.com/common/b6e1482b-f113-4c05-ac40-4355d327030b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Clicker Script Regular_old;
+    src: url(https://cdn.crello.com/common/d40e3dc4-af01-4e6d-ac58-d07e841b9f94_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Comfortaa Bold_old;
+    src: url(https://cdn.crello.com/common/bc693db8-1cff-454f-baa2-b31b3df8cb6b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Comfortaa Light_old;
+    src: url(https://cdn.crello.com/common/7dc50885-0cd7-42bf-b32d-82e89af7d47a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Comfortaa Regular_old;
+    src: url(https://cdn.crello.com/common/c524acc4-24cf-4c72-b856-db77dc981559_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Constantine_old;
+    src: url(https://cdn.crello.com/common/f39d55ac-26e4-4018-86c6-3d1bfaf497dc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Contrail One Regular_old;
+    src: url(https://cdn.crello.com/common/d4de90ca-7713-486d-a07f-2ea6ae004c8f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cookie Regular_old;
+    src: url(https://cdn.crello.com/common/b1f64159-3f99-4b52-8277-44dd883de3d5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Copse Regular_old;
+    src: url(https://cdn.crello.com/common/293fb3f3-2f30-40de-b25c-a8862d3df042_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cormorant Infant Bold_old;
+    src: url(https://cdn.crello.com/common/58dceb22-f983-4fe5-b52d-41be448707ce_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cormorant Infant BoldItalic_old;
+    src: url(https://cdn.crello.com/common/0c6c50ea-451e-4de5-8855-04e3184eaa18_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cormorant Infant Italic_old;
+    src: url(https://cdn.crello.com/common/4f665f44-fd3b-4e46-a758-a81f013e415b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cormorant Infant Regular_old;
+    src: url(https://cdn.crello.com/common/ad20eae9-1933-472e-9965-5433d648339e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Courgette Regular_old;
+    src: url(https://cdn.crello.com/common/0eedac97-c7bb-43f9-82aa-f840766a138f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cousine Bold_old;
+    src: url(https://cdn.crello.com/common/611863e6-a7b3-4811-824b-9aee5912b681_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cousine BoldItalic_old;
+    src: url(https://cdn.crello.com/common/fc834af5-6d91-4691-b415-43013635c8cb_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cousine Italic_old;
+    src: url(https://cdn.crello.com/common/d5a33d24-7a1d-4d8c-805b-2c950a668ba0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cousine Regular_old;
+    src: url(https://cdn.crello.com/common/cd0cd044-993e-485e-835f-fae673c15692_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Covered ByYour Grace_old;
+    src: url(https://cdn.crello.com/common/40054738-2deb-4022-b668-fc25eb32036c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Creepster Regular_old;
+    src: url(https://cdn.crello.com/common/40230a9e-907f-44d8-a3f5-99c88c8990b5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Crete Round Italic_old;
+    src: url(https://cdn.crello.com/common/a2fe8ec8-f93b-43a4-b9c5-8c334730afd2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Crete Round Regular_old;
+    src: url(https://cdn.crello.com/common/29b97068-c2cc-4120-b635-d1cd879b6117_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Cutive Mono Regular_old;
+    src: url(https://cdn.crello.com/common/5a3af1a6-caf8-4ebf-be6a-246a70c512a6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Damion Regular_old;
+    src: url(https://cdn.crello.com/common/5aa92301-9202-4b0b-af05-c6cfaceb2e0f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Dancing Script Bold_old;
+    src: url(https://cdn.crello.com/common/eb6ef8b1-c67f-4ed7-8bcb-5f8161476903_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Dancing Script Regular_old;
+    src: url(https://cdn.crello.com/common/7b98d2e6-3f2f-4df4-9739-0141a00c1f10_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: David Libre Bold_old;
+    src: url(https://cdn.crello.com/common/a970440b-b006-49f7-aa06-4d90b8ab9420_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: David Libre Regular_old;
+    src: url(https://cdn.crello.com/common/eafc4041-e423-4ae8-be77-f2e491e26480_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Dawningofa New Day_old;
+    src: url(https://cdn.crello.com/common/35ed99cd-df39-4be2-8a90-e650eaa20576_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Delius Swash Caps Regular_old;
+    src: url(https://cdn.crello.com/common/a9996b0e-7b42-4c57-914e-f3e005d0bbaf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Delius Regular_old;
+    src: url(https://cdn.crello.com/common/d928e9ff-22c4-43fe-a647-979887c7f278_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Didact Gothic Regular_old;
+    src: url(https://cdn.crello.com/common/ca566f35-2834-46f2-a3f4-3e290a1390b8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Dorsa Regular_old;
+    src: url(https://cdn.crello.com/common/1de7f235-5b4d-4fa5-aa21-8180c4e823f2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Dosis Bold_old;
+    src: url(https://cdn.crello.com/common/2e3f23bb-8f7d-47a0-b92b-71f97e5d870f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Dosis Light_old;
+    src: url(https://cdn.crello.com/common/fd818278-9012-4035-a986-43ca855967b3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Dosis Regular_old;
+    src: url(https://cdn.crello.com/common/216b5320-068d-46c6-b148-8b31451a9bc6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Droid Serif Bold_old;
+    src: url(https://cdn.crello.com/common/370b4e99-78f6-475b-ab4e-f8b53e488c77_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Droid Serif BoldItalic_old;
+    src: url(https://cdn.crello.com/common/e3aeb9e1-1531-4143-a5eb-7b94ca5f6a9f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Droid Serif Italic_old;
+    src: url(https://cdn.crello.com/common/322e701d-198d-4235-b63f-bae20ae9fae7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Droid Serif Regular_old;
+    src: url(https://cdn.crello.com/common/6f3432e3-d9a6-4f9b-872c-f36bed4490dc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: EB Garamond Regular_old;
+    src: url(https://cdn.crello.com/common/68ec41ce-c1be-4aa6-acbc-02b4431d1cfa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Economica Bold_old;
+    src: url(https://cdn.crello.com/common/5d71c34a-09ec-4164-88c0-7358793da3db_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Economica BoldItalic_old;
+    src: url(https://cdn.crello.com/common/ce027191-ec28-408c-9648-2dd42c07017a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Economica Italic_old;
+    src: url(https://cdn.crello.com/common/7c34d9a7-52be-4f67-bb43-022bbe96ad7e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Economica Regular_old;
+    src: url(https://cdn.crello.com/common/75591fdd-a5c9-437a-9223-31430c3c09b4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: El Messiri Bold_old;
+    src: url(https://cdn.crello.com/common/4efff9fc-88dc-4fbe-8c93-aa99ce8b0c08_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: El Messiri Regular_old;
+    src: url(https://cdn.crello.com/common/1b67b78c-c91b-4995-8ec4-cc5fa7f520ff_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Elsie Black_old;
+    src: url(https://cdn.crello.com/common/976cdec7-d5d1-4316-a569-067c6f2f02af_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Elsie Regular_old;
+    src: url(https://cdn.crello.com/common/75fd4ba2-f912-4271-9009-0df30b945989_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Elsie Swash Caps Black_old;
+    src: url(https://cdn.crello.com/common/71f4d7b0-2bc9-4803-be12-c0f545370f3c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Elsie Swash Caps Regular_old;
+    src: url(https://cdn.crello.com/common/df04c164-e0c4-4def-a770-63f3eb052f1a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Euphoria Script Regular_old;
+    src: url(https://cdn.crello.com/common/92aa4e35-01c8-4ce2-a652-e379bbbf0cb7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Ewert Regular_old;
+    src: url(https://cdn.crello.com/common/b66d5176-eea2-4f64-a172-743840e63532_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Exo2 Bold_old;
+    src: url(https://cdn.crello.com/common/942be59c-21e4-4203-9d1a-a8206548bdab_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Exo2 BoldItalic_old;
+    src: url(https://cdn.crello.com/common/2177c680-25da-4619-a93f-f9797d19b9c9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Exo2 Italic_old;
+    src: url(https://cdn.crello.com/common/4757ab95-a059-41d2-b294-b2edc71d2ecc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Exo2 Regular_old;
+    src: url(https://cdn.crello.com/common/31156d2f-7a02-41b6-94dc-fcdb3713c10f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Farsan Regular_old;
+    src: url(https://cdn.crello.com/common/fd8dbdcf-8663-4fa9-b2e8-62001623dee8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Faster One Regular_old;
+    src: url(https://cdn.crello.com/common/a72d99a0-5475-4e07-a691-ac448a4c0b43_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Fauna One Regular_old;
+    src: url(https://cdn.crello.com/common/e6c99c8b-cc53-41d1-b79c-7a192b4c7dda_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Felipa Regular_old;
+    src: url(https://cdn.crello.com/common/ecd40efa-ef81-49da-8f5a-78cbd0b3149f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Finger Paint Regular_old;
+    src: url(https://cdn.crello.com/common/8b5fa2b0-de98-4826-b4b1-2b3c3f5c155a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Fjalla One Regular_old;
+    src: url(https://cdn.crello.com/common/60d63316-f148-4125-9953-ae0c43b53dfb_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Foglihten No06\ 076_old;
+    src: url(https://cdn.crello.com/common/dd07b595-9d7a-49c0-a163-fbcfd18080d9_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Forum Regular_old;
+    src: url(https://cdn.crello.com/common/2d286e83-e14c-4dc3-a549-ffb881e35e5b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Frank Ruhl Libre Bold_old;
+    src: url(https://cdn.crello.com/common/92bc8b04-f0fb-44f7-89e2-34c7cecc59ac_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Frank Ruhl Libre Regular_old;
+    src: url(https://cdn.crello.com/common/afd4d497-f076-458e-b5cd-aee6afef864b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Frederickathe Great Regular_old;
+    src: url(https://cdn.crello.com/common/56075691-613a-4761-82f7-441af2ccd7c6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: GFS Didot Regular_old;
+    src: url(https://cdn.crello.com/common/1a691295-f5e7-4dcb-bec8-1ee538e04c5a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Gabriela Regular_old;
+    src: url(https://cdn.crello.com/common/0f56a050-a52b-426c-b9ee-f97b527f28e9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Gaegu Bold_old;
+    src: url(https://cdn.crello.com/common/feb39a81-c0b1-4efb-9386-244c05cce248.ttf)
+  }
+  
+  @font-face {
+    font-family: Gaegu Light_old;
+    src: url(https://cdn.crello.com/common/adee54e5-89ed-4834-b93b-290cad1538be.ttf)
+  }
+  
+  @font-face {
+    font-family: Gaegu Regular_old;
+    src: url(https://cdn.crello.com/common/ac13ed2d-40b6-4c96-9544-3ab14c9c9852.ttf)
+  }
+  
+  @font-face {
+    font-family: Geo Italic_old;
+    src: url(https://cdn.crello.com/common/f1d6b6d7-ea0c-47b5-bb34-6fe134882ca0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Geo Regular_old;
+    src: url(https://cdn.crello.com/common/6b19e1f6-26c6-4b5e-923d-da9a00c80f84_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Give You Glory_old;
+    src: url(https://cdn.crello.com/common/1445ba11-ac30-47e5-9214-11096d63b671_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Glametrix_old;
+    src: url(https://cdn.crello.com/common/5c67b2aa-ff9f-47cc-9e40-5658a10d63f8_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Glametrix Bold_old;
+    src: url(https://cdn.crello.com/common/a65c8d16-bc71-48b8-9a9d-b8d0b5923b4f_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Glametrix Light_old;
+    src: url(https://cdn.crello.com/common/7e7794ec-8304-4c59-967d-bb20e29ccf95_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Glass Antiqua Regular_old;
+    src: url(https://cdn.crello.com/common/fd8b1ac6-0cfb-4557-96eb-c7e0fd8b3d89_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Graduate Regular_old;
+    src: url(https://cdn.crello.com/common/00707068-bfb2-4073-b0a1-d9af9b6e49db_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Grand Hotel Regular_old;
+    src: url(https://cdn.crello.com/common/7119d5bc-72c3-4aa7-9317-2a39bba61b1c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Gravitas One_old;
+    src: url(https://cdn.crello.com/common/c1a1bc70-40d2-435b-a4da-59e9e485746e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Great Vibes Regular_old;
+    src: url(https://cdn.crello.com/common/3ff122cd-5ceb-4bba-8df5-64a4dcc13f50_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Gruppo Regular_old;
+    src: url(https://cdn.crello.com/common/082b350f-d9d7-4673-a6d2-86d618c1de32_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Handlee Regular_old;
+    src: url(https://cdn.crello.com/common/dd88cec2-8e8f-429d-b658-eac4fb1e7d84_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Happy Monkey Regular_old;
+    src: url(https://cdn.crello.com/common/c8f87740-a3a4-44a8-a97e-e028db8c5b75_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Heebo Bold_old;
+    src: url(https://cdn.crello.com/common/cac5208c-a575-42f9-8669-59c16151a84b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Heebo Regular_old;
+    src: url(https://cdn.crello.com/common/a82b1d48-ec21-427e-9027-2df1266178ad_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Herr Von Muellerhoff Regular_old;
+    src: url(https://cdn.crello.com/common/224deb9d-a6e3-4253-ad7a-0aa7973f5128_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Homemade Apple_old;
+    src: url(https://cdn.crello.com/common/52e9d0d1-a1fd-480d-9acd-f143a4e0daa3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: IM FeP Isc28P_old;
+    src: url(https://cdn.crello.com/common/968760ba-ce0d-4268-b835-b9076d286e45_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: IM Fell DW Pica SC_old;
+    src: url(https://cdn.crello.com/common/e1cc3225-5c4b-40d2-b972-f3a9f7ab53e2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Iceberg Regular_old;
+    src: url(https://cdn.crello.com/common/067faf66-1730-401a-a3ec-ee8c001374e4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Iceland Regular_old;
+    src: url(https://cdn.crello.com/common/0b683344-9681-489d-bfb7-d243b037a468_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Inconsolata Bold_old;
+    src: url(https://cdn.crello.com/common/65da8149-d4f8-495f-9be9-bca42a838812_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Inconsolata Regular_old;
+    src: url(https://cdn.crello.com/common/177e1b61-30f4-48a6-bcae-13bde81fd6d8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Italiana Regular_old;
+    src: url(https://cdn.crello.com/common/2a1fdbc0-9893-46be-9a5e-b9220fe1c485_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Italianno Regular_old;
+    src: url(https://cdn.crello.com/common/7a5973ac-b463-4018-a21c-36dbe094f102_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Jacques Francois Shadow Regular_old;
+    src: url(https://cdn.crello.com/common/ddb9d2ea-c305-4fca-a10c-e2710cdd0cb8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Josefin Sans Bold_old;
+    src: url(https://cdn.crello.com/common/a4176ad0-efa0-4955-ae34-867006456e1a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Josefin Sans BoldItalic_old;
+    src: url(https://cdn.crello.com/common/461af77d-d006-4daa-b62b-adc887fcdd90_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Josefin Sans Italic_old;
+    src: url(https://cdn.crello.com/common/f6044d13-67b9-46b7-973a-868a15ccf0c1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Josefin Sans Regular_old;
+    src: url(https://cdn.crello.com/common/737a3ebe-9e8c-4475-8ca1-4e1759d606de_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Josefin Slab Bold_old;
+    src: url(https://cdn.crello.com/common/603b5120-236c-4b14-ba5f-9207456a8499_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Josefin Slab BoldItalic_old;
+    src: url(https://cdn.crello.com/common/0a69a080-9629-48e1-bc4e-ec3f175247c0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Josefin Slab Italic_old;
+    src: url(https://cdn.crello.com/common/bb78678e-783d-4b7f-90fe-a5864344abf3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Josefin Slab Regular_old;
+    src: url(https://cdn.crello.com/common/26963c78-4601-48e1-ade1-84680266064f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Julius Sans One Regular_old;
+    src: url(https://cdn.crello.com/common/67fbdfa2-b47e-4741-afe5-78357a3a0a82_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Junge Regular_old;
+    src: url(https://cdn.crello.com/common/a8e2b80c-3543-4f5c-abb2-3c9f01648e07_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Jura Regular_old;
+    src: url(https://cdn.crello.com/common/5010315b-3512-4774-a660-16cd94ae0599_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Just MeAgain Down Here_old;
+    src: url(https://cdn.crello.com/common/4a2713f1-eb4e-4244-86f3-0d752f554fb2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kalam Bold_old;
+    src: url(https://cdn.crello.com/common/cd113a2b-d857-44ac-ac6f-05f787fe2c90_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kalam Light_old;
+    src: url(https://cdn.crello.com/common/44e655c8-e699-4eea-a225-627145204b6b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kalam Regular_old;
+    src: url(https://cdn.crello.com/common/e07a17bd-4fb6-4eb4-bada-c03d63504be0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Katibeh Regular_old;
+    src: url(https://cdn.crello.com/common/daab672b-76b8-4dce-889f-396432fd1080_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kaushan Script Regular_old;
+    src: url(https://cdn.crello.com/common/ab9f4727-3913-46fb-b224-070eab410466_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kavivanar Regular_old;
+    src: url(https://cdn.crello.com/common/104cc167-5e04-4bec-8131-72e147dc3b26_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kelly Slab Regular_old;
+    src: url(https://cdn.crello.com/common/89e0e2de-adcd-4821-9819-1de1ddc48daf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kreon Bold_old;
+    src: url(https://cdn.crello.com/common/4e15e2fd-1c65-414a-bf8b-d898b6a31bf9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kreon Regular_old;
+    src: url(https://cdn.crello.com/common/9fcc37f7-c621-4290-adf8-d72cf0829417_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kristi_old;
+    src: url(https://cdn.crello.com/common/44fa2370-fe2a-4d35-b71d-49fc18ee8ec1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kumar One Outline Regular_old;
+    src: url(https://cdn.crello.com/common/f0579c09-cda2-4255-ad4c-e7df0dc4477d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kumar One Regular_old;
+    src: url(https://cdn.crello.com/common/fcb00711-3cf0-48bf-8975-1d2ba631673c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Kurale Regular_old;
+    src: url(https://cdn.crello.com/common/9da2f768-b09d-427b-8bae-1091f79ad396_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: La Belle Aurore_old;
+    src: url(https://cdn.crello.com/common/b5c8c0d5-c2ba-486f-9c86-8b1023b6a3c0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Lalezar Regular_old;
+    src: url(https://cdn.crello.com/common/8a72425a-54e4-4527-bf02-514378c208d2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Lato Bold_old;
+    src: url(https://cdn.crello.com/common/dc0f5029-74de-4b5c-8a58-4dafecddd5b5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Lato BoldItalic_old;
+    src: url(https://cdn.crello.com/common/3ee40d00-863a-4488-af29-f9aba3872989_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Lato Italic_old;
+    src: url(https://cdn.crello.com/common/82882dce-5e67-4b45-b43c-6f3f42762444_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Lato Regular_old;
+    src: url(https://cdn.crello.com/common/706c28eb-aeaf-4762-bd9c-ba6a22ea5447_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Lauren Regular_old;
+    src: url(https://cdn.crello.com/common/3da3db9b-ea1c-4c5d-a2f8-f7f40f415381_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: League Script_old;
+    src: url(https://cdn.crello.com/common/08c29993-f4e9-4568-a97a-d6e8f7581305_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Lemon Tuesday_old;
+    src: url(https://cdn.crello.com/common/8ebc1615-17df-406f-9600-e00681420cd2_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Libre Baskerville Bold_old;
+    src: url(https://cdn.crello.com/common/793ebbad-da55-4ace-b68a-d120888edf6d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Libre Baskerville Italic_old;
+    src: url(https://cdn.crello.com/common/334c6b12-bfbf-4551-9a9b-cba181cb7c8b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Libre Baskerville Regular_old;
+    src: url(https://cdn.crello.com/common/c0743d9c-912c-465c-9f1c-f2f3d35232dc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Limelight Regular_old;
+    src: url(https://cdn.crello.com/common/6e45f566-8ca6-4070-954a-0748abb36d87_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Londrina Shadow Regular_old;
+    src: url(https://cdn.crello.com/common/eb5e8a1d-bef3-4e5b-8357-c29c52213982_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Londrina Sketch Regular_old;
+    src: url(https://cdn.crello.com/common/a9cf3216-58fb-4fb8-8eb6-a16bd55a3782_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Lovedbythe King_old;
+    src: url(https://cdn.crello.com/common/326a85ca-e5d4-4e9b-a432-65cb30b6cc72_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Lovers Quarrel Regular_old;
+    src: url(https://cdn.crello.com/common/1dbdc9d7-0b4b-4cc6-a991-0565f4a8dbc8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: MarcellusSC Regular_old;
+    src: url(https://cdn.crello.com/common/fcc894c0-8a54-4811-be62-0245d06f6ade_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Marck Script Regular_old;
+    src: url(https://cdn.crello.com/common/0c8183a6-e8f4-4433-bd8c-a3699afa8954_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Mate Italic_old;
+    src: url(https://cdn.crello.com/common/f954a161-6784-44a6-ae2b-2305317c211b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Mate Regular_old;
+    src: url(https://cdn.crello.com/common/1869499f-22eb-4875-8594-6202eff9587a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Maven Pro Bold_old;
+    src: url(https://cdn.crello.com/common/2fa2c24c-d265-4997-a187-c9ff1c56b9a2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Maven Pro Regular_old;
+    src: url(https://cdn.crello.com/common/3297ff88-612a-4d6c-b473-693e9f0b559d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Meddon_old;
+    src: url(https://cdn.crello.com/common/13508ea4-84d4-4119-ba4e-c6ee31ba0a0c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Medula One Regular_old;
+    src: url(https://cdn.crello.com/common/cbd04a02-da08-4b6f-93cf-a6c88bcc549e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Merienda One Regular_old;
+    src: url(https://cdn.crello.com/common/01491e71-77e5-4c9f-a0e3-0cde97fe3bac_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Merriweather Bold_old;
+    src: url(https://cdn.crello.com/common/84dac2e1-82c8-4d38-a45a-95a2faefad6e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Merriweather BoldItalic_old;
+    src: url(https://cdn.crello.com/common/4e75a3d3-8472-4949-bc4c-d196bd776d3d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Merriweather Italic_old;
+    src: url(https://cdn.crello.com/common/d2b3dbbe-ecf3-4b6c-9538-b4fb02404e26_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Merriweather Regular_old;
+    src: url(https://cdn.crello.com/common/ecb41673-7caf-47c1-b33e-3b746eb9a39a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Mikodacs F Mac_old;
+    src: url(https://cdn.crello.com/common/10fc7e52-b66f-4b79-b683-74f6a2257911.otf)
+  }
+  
+  @font-face {
+    font-family: MikodacsPCS F Mac_old;
+    src: url(https://cdn.crello.com/common/32d55bbd-d09f-4509-9c64-de845552c95a_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Miriam Libre Bold_old;
+    src: url(https://cdn.crello.com/common/703a51ed-e8ee-4c16-9b43-d701dd82efb3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Miriam Libre Regular_old;
+    src: url(https://cdn.crello.com/common/e24e9645-b9ef-4557-8b94-1f29f45a5397_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Monda Bold_old;
+    src: url(https://cdn.crello.com/common/9bfb900a-b9e8-4c1d-9919-d3a0a09af13a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Monda Regular_old;
+    src: url(https://cdn.crello.com/common/c54cc6b0-07b4-4e1b-bf13-a51f32302fa2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Monofett_old;
+    src: url(https://cdn.crello.com/common/7cff7f7e-c946-4322-a017-12686fa80174_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Monsieur LaDoulaise Regular_old;
+    src: url(https://cdn.crello.com/common/a491857e-187b-407a-a525-5a9383709f3a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Montserrat Alternates Bold_old;
+    src: url(https://cdn.crello.com/common/4fe1675a-9887-484c-97e0-408fba97e6f6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Montserrat Alternates BoldItalic_old;
+    src: url(https://cdn.crello.com/common/89d0ef38-fc9f-4b5b-8ce5-a946d4b7a6f3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Montserrat Alternates Italic_old;
+    src: url(https://cdn.crello.com/common/c33ae686-8937-448b-a40d-9181eb2eb8e6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Montserrat Alternates Regular_old;
+    src: url(https://cdn.crello.com/common/ef3643c8-df17-4683-a311-6d2e81d02c38_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Montserrat Bold_old;
+    src: url(https://cdn.crello.com/common/0160409d-98d2-4978-9f5b-2acd6f15fa58_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Montserrat BoldItalic_old;
+    src: url(https://cdn.crello.com/common/39769ea9-3179-4164-b6a0-18e1037730ae_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Montserrat Italic_old;
+    src: url(https://cdn.crello.com/common/ebb25f28-4fc0-422a-a3a7-2fe5193685ae_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Montserrat Regular_old;
+    src: url(https://cdn.crello.com/common/dbcd8dae-8480-4096-bbd7-8da7d4f38b2b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Montserrat Medium_old;
+    src: url(https://cdn.crello.com/common/ae280a9f-b338-427a-9d34-ec130fb0f462_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Mr Dafoe Regular_old;
+    src: url(https://cdn.crello.com/common/1b0b8ab4-dfeb-4058-84a5-a7da04e68e2d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Mr DeHaviland Regular_old;
+    src: url(https://cdn.crello.com/common/47c76e18-a893-4766-a572-d948143e8b56_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Mrs Saint Delafield Regular_old;
+    src: url(https://cdn.crello.com/common/b01e7162-0a56-4ce8-bd99-fd4ebcc3121f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Mrs Sheppards Regular_old;
+    src: url(https://cdn.crello.com/common/75067114-54d4-451e-956c-6982b6b8ec71_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Neucha_old;
+    src: url(https://cdn.crello.com/common/027b4e7f-4431-4303-acdf-351ada8bdb61_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Nixie One Regular_old;
+    src: url(https://cdn.crello.com/common/e058e423-4e9d-48ac-8e0a-ce84dbccd4cf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Nothing You Could Do_old;
+    src: url(https://cdn.crello.com/common/f3da3288-02ea-41a7-8312-a60098d7dbef_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Noticia Text Bold_old;
+    src: url(https://cdn.crello.com/common/f1bd52a1-c5b4-4e2a-8a26-37457958e834_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Noticia Text BoldItalic_old;
+    src: url(https://cdn.crello.com/common/6011822b-6f8a-4b0e-b9f1-830d9eb8cd42_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Noticia Text Italic_old;
+    src: url(https://cdn.crello.com/common/ae2024db-0b46-405f-b0d4-7651c309ecd9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Noticia Text Regular_old;
+    src: url(https://cdn.crello.com/common/fc38d571-4462-471d-9ddb-45c4beedf92a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Nova Square_old;
+    src: url(https://cdn.crello.com/common/d24d8e3d-c6eb-450a-a4b3-339738866993_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Nunito Bold_old;
+    src: url(https://cdn.crello.com/common/168673c6-6a60-4561-bfcb-69580429a667_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Nunito Regular_old;
+    src: url(https://cdn.crello.com/common/d71f021a-1dd7-449c-8f2b-0efc23f23951_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Offside Regular_old;
+    src: url(https://cdn.crello.com/common/751375a8-cc4a-485f-a0db-8be71c3f3efd_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Old Standard Bold_old;
+    src: url(https://cdn.crello.com/common/edd1789e-cef6-436f-a98e-4c4256b05e11_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Old Standard Italic_old;
+    src: url(https://cdn.crello.com/common/939c6f8a-6c81-4d53-9564-409936e77d1f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Old Standard Regular_old;
+    src: url(https://cdn.crello.com/common/3396bf4c-004d-4631-94eb-c62ae03d4f60_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oleo Script Bold_old;
+    src: url(https://cdn.crello.com/common/75eeb591-183c-467f-9853-ee709ed0e613_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oleo Script Regular_old;
+    src: url(https://cdn.crello.com/common/6d864565-dc7f-48c7-afa3-3c179818867c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Open Sans Bold_old;
+    src: url(https://cdn.crello.com/common/b1ededdd-bf60-4249-abf4-eb0ca980d487_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Open Sans BoldItalic_old;
+    src: url(https://cdn.crello.com/common/b02d7d1f-3d0b-4308-b478-7647d6dddfd8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Open Sans Cond Bold_old;
+    src: url(https://cdn.crello.com/common/9b9f16b9-b583-42ea-a559-9e40b9fac906_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Open Sans Italic_old;
+    src: url(https://cdn.crello.com/common/37b4c5d2-006c-466c-a3ec-0f4401ecbf0a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Open Sans Regular_old;
+    src: url(https://cdn.crello.com/common/2b33669b-b25b-49b7-bf36-816192c95818_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oranienbaum Regular_old;
+    src: url(https://cdn.crello.com/common/05ca73ea-4bb4-4878-a77f-847fa1e239b0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Orbitron Bold_old;
+    src: url(https://cdn.crello.com/common/682cab73-4de9-4174-ac70-5f73bea604b0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Orbitron Regular_old;
+    src: url(https://cdn.crello.com/common/f45a6807-488f-4be7-93bc-9f2398f949d4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oswald Bold_old;
+    src: url(https://cdn.crello.com/common/e7ca99f2-9f3b-4179-a42c-6d935f63fdeb_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oswald Extra Light_old;
+    src: url(https://cdn.crello.com/common/19ee8a67-e59b-4b9c-b53b-5d59b200cc86_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oswald Light_old;
+    src: url(https://cdn.crello.com/common/cbe41cc3-20e6-499f-a452-f26613fe79fe_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oswald Medium_old;
+    src: url(https://cdn.crello.com/common/75def38e-dfae-449d-9696-94bb378b7a8e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oswald Regular_old;
+    src: url(https://cdn.crello.com/common/df9355eb-d20e-4a12-83fb-7134f722fad2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oswald Semi Bold_old;
+    src: url(https://cdn.crello.com/common/71ad2d0d-e96e-4a79-9721-3dcacb9aad5b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Overlock Bold_old;
+    src: url(https://cdn.crello.com/common/38c4bd9a-6bc3-47a8-adde-ec3aa119b186_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Overlock BoldItalic_old;
+    src: url(https://cdn.crello.com/common/c2e2e03f-df23-48a0-beeb-40f1e9112a29_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Overlock Italic_old;
+    src: url(https://cdn.crello.com/common/6601d491-b685-4944-83ad-efb21afaf963_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Overlock Regular_old;
+    src: url(https://cdn.crello.com/common/969d4c4f-ab07-4bcb-88f6-3fca6b66e31e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oxygen Bold_old;
+    src: url(https://cdn.crello.com/common/f7e18bcc-c058-44b8-a4c6-a50ef24b2e2d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Oxygen Regular_old;
+    src: url(https://cdn.crello.com/common/4c7df27a-dfd3-4945-8462-07ac7d203a77_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: PT Sans Bold_old;
+    src: url(https://cdn.crello.com/common/e1407432-9982-45ba-9d6a-93de08e7d57f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: PT Sans BoldItalic_old;
+    src: url(https://cdn.crello.com/common/985e14ad-6e4b-4f67-9d26-29c49aea45e7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: PT Sans Italic_old;
+    src: url(https://cdn.crello.com/common/ce32db24-a812-4081-ac64-4a1b546d1723_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: PT Sans Regular_old;
+    src: url(https://cdn.crello.com/common/29d1bdc5-07c6-4e2e-847b-ffc41c6d0768_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: PT Sans Web Bold_old;
+    src: url(https://cdn.crello.com/common/16f19765-27cc-4bbc-9966-7d8aeff70439_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: PT Sans Web BoldItalic_old;
+    src: url(https://cdn.crello.com/common/6af98950-2ff1-4114-8cf4-1366bf9efcec_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: PT Sans Web Italic_old;
+    src: url(https://cdn.crello.com/common/7c4f44de-852a-485d-9311-a9c6cda9c90d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: PT Sans Web Regular_old;
+    src: url(https://cdn.crello.com/common/01209af4-fae6-4943-bb67-205eb54ddb96_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Pacifico_old;
+    src: url(https://cdn.crello.com/common/8ebdc980-b2f2-439e-838a-02ed205266a4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Pacifico Regular_old;
+    src: url(https://cdn.crello.com/common/15d9f1b7-51ae-4425-97fd-597201ae792b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Pangolin Regular_old;
+    src: url(https://cdn.crello.com/common/9239cf5f-eb4e-4b20-9ae2-7ea5dfcedbe5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Parisienne Regular_old;
+    src: url(https://cdn.crello.com/common/047f836c-0213-4c49-8ec6-669125553b22_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Pathway Gothic One Regular_old;
+    src: url(https://cdn.crello.com/common/de4093dc-d12f-4f3b-b6ba-a1f42bf96fb4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Patrick Hand Regular_old;
+    src: url(https://cdn.crello.com/common/8210638c-054e-401b-b711-371d15721905_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Pattaya Regular_old;
+    src: url(https://cdn.crello.com/common/b5410bfe-49e0-4f0e-bc0f-b4e34b6b69cc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Patua One Regular_old;
+    src: url(https://cdn.crello.com/common/442283eb-153d-4302-b488-2ff404315d1f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Permanent Marker_old;
+    src: url(https://cdn.crello.com/common/0892e015-ed98-4653-aa01-cc4ed6722a5d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Petit Formal Script Regular_old;
+    src: url(https://cdn.crello.com/common/3eedd0fc-f646-4f1d-beab-261f4ecb009a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Philosopher Bold_old;
+    src: url(https://cdn.crello.com/common/689e1440-37bc-4e08-bac3-23c8f4b63d07_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Philosopher BoldItalic_old;
+    src: url(https://cdn.crello.com/common/706606a3-ea2a-412a-bfcf-0505ff94e6d1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Philosopher Italic_old;
+    src: url(https://cdn.crello.com/common/d520a48a-7c9f-404e-b341-1e3955d29fa7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Philosopher Regular_old;
+    src: url(https://cdn.crello.com/common/b1d7a087-a8a2-44ec-8c47-a8379ab555d0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Pinyon Script Regular_old;
+    src: url(https://cdn.crello.com/common/fa001ffb-b336-4921-aaf7-401026fa0347_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Pirou Regular_old;
+    src: url(https://cdn.crello.com/common/4e5b1918-df17-498f-a771-ec6653db691f_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Play Bold_old;
+    src: url(https://cdn.crello.com/common/82020494-65ec-43b4-acbb-a0723572caca_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Play Regular_old;
+    src: url(https://cdn.crello.com/common/12fd1df4-5a76-4d44-b135-d388f1812b4c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Playball Regular_old;
+    src: url(https://cdn.crello.com/common/da32812f-d54c-452c-83a5-2fe4817c6286_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Playfair Display Bold_old;
+    src: url(https://cdn.crello.com/common/59e27c46-683a-4ac3-9e56-04ce52dff199_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Playfair Display BoldItalic_old;
+    src: url(https://cdn.crello.com/common/bfa9aaaf-a8b3-4042-8f49-5cf0400072bc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Playfair Display Italic_old;
+    src: url(https://cdn.crello.com/common/62a6e312-f8e3-4aa0-8d0d-c90521fba988_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Playfair Display Regular_old;
+    src: url(https://cdn.crello.com/common/917465c7-009a-4944-be2a-bdeabe345fe0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Playlist Caps_old;
+    src: url(https://cdn.crello.com/common/c6d81438-572d-4ddd-97d0-e886d6d770a1_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Playlist Script_old;
+    src: url(https://cdn.crello.com/common/2942dda8-9629-46e2-99e5-c4e5a38a25ea_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Podkova Bold_old;
+    src: url(https://cdn.crello.com/common/d94e5a4c-a9bb-4d0c-8115-f090120ab4f3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Podkova Extra Bold_old;
+    src: url(https://cdn.crello.com/common/8b3ff1d0-0fbf-4dbc-9cf0-f294bddf7e6f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Podkova Medium_old;
+    src: url(https://cdn.crello.com/common/51b1a569-3743-4e1e-9037-2d3970de677f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Podkova Regular_old;
+    src: url(https://cdn.crello.com/common/c9946405-30a7-4927-a2b0-e7e25ab1dd9c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Podkova Semi Bold_old;
+    src: url(https://cdn.crello.com/common/de9812b6-11d5-4a69-ab3c-3d9d0c9780f5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Poiret One Regular_old;
+    src: url(https://cdn.crello.com/common/69115907-d1c0-4e0b-8ddc-a92d66214b61_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Pompiere Regular_old;
+    src: url(https://cdn.crello.com/common/db108659-5541-46e2-8d93-519156a6c128_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Port Lligat Slab Regular_old;
+    src: url(https://cdn.crello.com/common/ea02ac1e-0acd-40b3-bef5-6440bada474c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Press Start2P Regular_old;
+    src: url(https://cdn.crello.com/common/06f713f2-7ca5-44a5-8170-908e7f60088e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Prompt Bold_old;
+    src: url(https://cdn.crello.com/common/738bebc8-2e54-4dc1-aee6-2b738f85afa9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Prompt BoldItalic_old;
+    src: url(https://cdn.crello.com/common/fa372275-aa43-4499-aa0e-608107752eea_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Prompt Italic_old;
+    src: url(https://cdn.crello.com/common/6fc96ecc-c698-4c38-99b8-4f188000639c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Prompt Regular_old;
+    src: url(https://cdn.crello.com/common/e5d3bb4b-9b0d-47d3-a74a-24400e1e87c1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Quattrocento Bold_old;
+    src: url(https://cdn.crello.com/common/fe259c7b-d7d1-4489-9199-5da491dd42e5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Quattrocento Regular_old;
+    src: url(https://cdn.crello.com/common/39c6526f-4ccb-49a1-8859-632dead7e0ad_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Quicksand Bold_old;
+    src: url(https://cdn.crello.com/common/5552fa50-2420-4cb8-9549-f49fdfd72843_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Quicksand Regular_old;
+    src: url(https://cdn.crello.com/common/b84fdc54-1b40-4b01-8a97-0f18cac21457_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Racing Sans One Regular_old;
+    src: url(https://cdn.crello.com/common/8355284b-b6dd-4df8-b2fe-052556cc9cc8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Radley Italic_old;
+    src: url(https://cdn.crello.com/common/e3a40527-d4f5-4f8f-a071-5022bf46f0a6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Radley Regular_old;
+    src: url(https://cdn.crello.com/common/d8a4764e-1fe9-4e5c-91f5-e43edbeb612f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rakkas Regular_old;
+    src: url(https://cdn.crello.com/common/c3f94004-50df-42e6-a5d0-f58e68108411_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Raleway Bold_old;
+    src: url(https://cdn.crello.com/common/1e0c77b5-59f5-4eef-b085-d405ad5d615b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Raleway BoldItalic_old;
+    src: url(https://cdn.crello.com/common/49244b16-bf28-4f7c-9e4e-88688dc7f23d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Raleway Italic_old;
+    src: url(https://cdn.crello.com/common/df38b06b-8116-482f-9342-c40e5a356cee_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Raleway Regular_old;
+    src: url(https://cdn.crello.com/common/3bdc0cb7-897d-42dd-bcfe-53ff80fcc4e3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Raleway Dots Regular_old;
+    src: url(https://cdn.crello.com/common/bfa3ca7f-ea5c-4a2a-b571-954a5c5ed2de_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rammetto One Regular_old;
+    src: url(https://cdn.crello.com/common/105d8644-9d5e-4661-8985-39f673841c56_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rationale Regular_old;
+    src: url(https://cdn.crello.com/common/4983745a-524d-4c7d-a721-acec44fcf866_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Reem Kufi Regular_old;
+    src: url(https://cdn.crello.com/common/1eaf9c3c-5e01-4102-9686-8d6f559edfe4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Reenie Beanie_old;
+    src: url(https://cdn.crello.com/common/29e185dc-f605-4b7a-aac5-a0b9d9aa02bb_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Righteous Regular_old;
+    src: url(https://cdn.crello.com/common/a95bc561-dd20-4f61-9907-4a0fb8f821e6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rise_old;
+    src: url(https://cdn.crello.com/common/396b0559-7078-4f4d-a86f-07b8c1e079c5_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Rissa Typeface_old;
+    src: url(https://cdn.crello.com/common/b99025f0-8de4-45cb-9713-df893a57dd69_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Roboto Bold_old;
+    src: url(https://cdn.crello.com/common/5d79a7ba-2f55-41ec-9722-624e063605ce_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Roboto BoldItalic_old;
+    src: url(https://cdn.crello.com/common/da5f26f4-2ffb-4929-a234-6c62c66c8603_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Roboto Italic_old;
+    src: url(https://cdn.crello.com/common/89e3752a-f3b0-443e-993a-2185a3f06b1e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Roboto Regular_old;
+    src: url(https://cdn.crello.com/common/4aacb048-3614-45b8-9bf5-96f6a0e2bb33_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rochester Regular_old;
+    src: url(https://cdn.crello.com/common/ab4c2e76-59da-466d-8c9c-791d270bf4ab_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rock Salt_old;
+    src: url(https://cdn.crello.com/common/fafae875-98df-4e4c-82fe-56c7a678759b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rokkitt Bold_old;
+    src: url(https://cdn.crello.com/common/7ffb35e4-b336-4e1b-ac91-cf9aa04086cb_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rokkitt Regular_old;
+    src: url(https://cdn.crello.com/common/0eba6663-fe93-4449-a262-7688e415a78b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rosario Bold_old;
+    src: url(https://cdn.crello.com/common/d6008b49-919b-4c6f-99b3-6c1dbf28be3c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rosario BoldItalic_old;
+    src: url(https://cdn.crello.com/common/b9ddcebb-052c-4e81-a5bd-9728b67614ff_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rosario Italic_old;
+    src: url(https://cdn.crello.com/common/3d08361f-d4a2-4bc0-86e8-161258fabec5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rosario Regular_old;
+    src: url(https://cdn.crello.com/common/a23aadac-3476-4b3c-93bd-0800aaaa1b3c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik Black_old;
+    src: url(https://cdn.crello.com/common/f7bd4ec7-626f-41d1-ace3-86c9b1210329_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik Black Italic_old;
+    src: url(https://cdn.crello.com/common/c7578a46-fb48-430b-9970-bfad4571b1af_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik Bold_old;
+    src: url(https://cdn.crello.com/common/7cae7e12-e26a-4b3e-8688-53ae2720a896_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik BoldItalic_old;
+    src: url(https://cdn.crello.com/common/89f9fed2-714d-47a4-9fa2-2941b4117f40_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik Italic_old;
+    src: url(https://cdn.crello.com/common/6aaf521b-e81b-4d3b-99ed-99b8aefa8784_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik Light_old;
+    src: url(https://cdn.crello.com/common/7aaa8a50-fdf9-4c2e-9b9d-5920ab1c2272_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik Light Italic_old;
+    src: url(https://cdn.crello.com/common/1d251302-a862-434b-b2f6-231cbe39fd33_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik Medium_old;
+    src: url(https://cdn.crello.com/common/3be84af2-4686-4129-bb98-6c7cd72e8550_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik Medium Italic_old;
+    src: url(https://cdn.crello.com/common/4adfd371-fd13-4563-9099-e673cb9eb38f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik Regular_old;
+    src: url(https://cdn.crello.com/common/734a0a61-dace-43d6-9114-c145b3861ae9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rubik One Regular_old;
+    src: url(https://cdn.crello.com/common/ea6d06cb-18c3-44bd-8efc-ea2512508e87_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Ruslan Display_old;
+    src: url(https://cdn.crello.com/common/461164ad-e2b0-40ec-83c4-c76e33e946c4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Russo One Regular_old;
+    src: url(https://cdn.crello.com/common/0cd40b17-9426-42f6-a4c1-48989d863ed9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Rye Regular_old;
+    src: url(https://cdn.crello.com/common/0035956d-9c83-4d5d-9b48-eb3d8e9ae319_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Sacramento Regular_old;
+    src: url(https://cdn.crello.com/common/a5022d7d-81c3-450f-890e-029b515e42d3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Sansita One_old;
+    src: url(https://cdn.crello.com/common/9816d3e2-a2dd-4652-834e-09b4c2cca2e2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Satisfy Regular_old;
+    src: url(https://cdn.crello.com/common/f37eb579-dcd4-4b29-a96b-219e96679d7c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Scope One Regular_old;
+    src: url(https://cdn.crello.com/common/f67dc50f-48c7-4923-8955-bebf2edcbb7b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Secular One Regular_old;
+    src: url(https://cdn.crello.com/common/db286c68-c79c-4355-b4bc-8614a0427f7a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Selima_old;
+    src: url(https://cdn.crello.com/common/5cdb42b0-d7ac-4df5-8657-84ce60989da9_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Sensei_old;
+    src: url(https://cdn.crello.com/common/aca0e5f4-f4cd-42c7-ba0d-6d5ddf4708e7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Seymour One Regular_old;
+    src: url(https://cdn.crello.com/common/4fd6a3bf-72c6-4b10-bb32-fad7e27f53c7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Shadows Into Light Two Regular_old;
+    src: url(https://cdn.crello.com/common/48ff7bb8-86d0-493e-ae09-d87aef5370aa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Share Tech Mono Regular_old;
+    src: url(https://cdn.crello.com/common/47228be9-11b5-4940-b223-182ff2fb06d5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Sirin Stencil Regular_old;
+    src: url(https://cdn.crello.com/common/03d87967-7558-4896-8af4-590d92b6d9ae_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Six Caps_old;
+    src: url(https://cdn.crello.com/common/0eeb359e-72f7-409f-b3b1-4d36fbaef4fc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Source Serif Pro Bold_old;
+    src: url(https://cdn.crello.com/common/2ae29508-4f66-4d18-87a4-a7639d1f7edc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Source Serif Pro Regular_old;
+    src: url(https://cdn.crello.com/common/8281c4fe-a183-4b6c-b6f5-73f94a236f58_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Space Mono Bold_old;
+    src: url(https://cdn.crello.com/common/18364e03-7dfc-4889-893c-ae8188d46fc3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Space Mono BoldItalic_old;
+    src: url(https://cdn.crello.com/common/45b6fcb2-d08f-4f50-8500-28cfe9e8e2ff_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Space Mono Italic_old;
+    src: url(https://cdn.crello.com/common/c2861fdb-1ecd-42c9-ba3e-2e3b43534284_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Space Mono Regular_old;
+    src: url(https://cdn.crello.com/common/1a8b24e7-5d94-44a2-b5ad-8b1380440dca_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Stalemate Regular_old;
+    src: url(https://cdn.crello.com/common/974b05d2-880f-47f1-8970-5ad5c9cf6500_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Stint Ultra Expanded Regular_old;
+    src: url(https://cdn.crello.com/common/8027ea2e-c22c-4221-958d-7d71e3ee657d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Sue Ellen Francisco_old;
+    src: url(https://cdn.crello.com/common/b801c7de-7541-42f9-806c-0edc9154a91f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Suez One Regular_old;
+    src: url(https://cdn.crello.com/common/dc0aeb7b-1a2e-46b8-ac3a-ca874f2f62a4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Sunday Regular_old;
+    src: url(https://cdn.crello.com/common/5e50ce4a-f4cc-4c51-8e74-7dabe463155d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Superclarendon Regular_old;
+    src: url(https://cdn.crello.com/common/a0eac4ba-0b69-4157-8a5f-f7de82d11ca9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Text MeOne Regular_old;
+    src: url(https://cdn.crello.com/common/fe2375f1-fe5c-4adf-bb2c-8401bd866184_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Tinos Bold_old;
+    src: url(https://cdn.crello.com/common/01374951-02c7-46f3-b737-f6febd978324_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Tinos BoldItalic_old;
+    src: url(https://cdn.crello.com/common/6c78ae6e-cded-43ab-9528-2a05024e8d9a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Tinos Italic_old;
+    src: url(https://cdn.crello.com/common/a32dbaf5-9a2c-400f-8df1-babced5c1b4f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Tinos Regular_old;
+    src: url(https://cdn.crello.com/common/2de4ca9a-30de-4cd2-bf84-96d91eb7bfa8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Titillium Web Bold_old;
+    src: url(https://cdn.crello.com/common/ced4ec68-fc9d-4163-a573-c49a14010be3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Titillium Web BoldItalic_old;
+    src: url(https://cdn.crello.com/common/28773211-e874-4ae4-bc3c-c30c010121be_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Titillium Web Italic_old;
+    src: url(https://cdn.crello.com/common/5b01ab10-a5c8-46ec-b908-d64215d1be6b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Titillium Web Regular_old;
+    src: url(https://cdn.crello.com/common/9fdbca06-0322-48c8-8ea1-482e8592a70f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Tulpen One Regular_old;
+    src: url(https://cdn.crello.com/common/e28804ba-f5b4-4eac-8e94-b84c49124ef2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Underdog Regular_old;
+    src: url(https://cdn.crello.com/common/8f70e0f7-5954-4265-a80d-b3d8541d4dfe_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: V T323 Regular_old;
+    src: url(https://cdn.crello.com/common/ab00b293-6512-4b3f-881b-f2d7a3bef5f0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Vampiro One Regular_old;
+    src: url(https://cdn.crello.com/common/35709c27-334c-44e5-894b-cb7562fb0dcc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Varela Round Regular_old;
+    src: url(https://cdn.crello.com/common/f92d97ca-6b68-4462-ba91-97cbeff1629f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Vast Shadow Regular_old;
+    src: url(https://cdn.crello.com/common/842711c0-c30b-47d9-a044-480581dd06f6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Vollkorn Bold_old;
+    src: url(https://cdn.crello.com/common/3506bdaf-210e-43a3-b3ed-513d9fcf9e2e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Vollkorn BoldItalic_old;
+    src: url(https://cdn.crello.com/common/a25d9d2a-6788-4d8c-81fd-ed12cf0f5823_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Vollkorn Italic_old;
+    src: url(https://cdn.crello.com/common/2a27ee17-8e6c-415f-a54f-1cdf69e78b86_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Vollkorn Regular_old;
+    src: url(https://cdn.crello.com/common/0e30b7ae-906a-4c8f-b914-75d8f4ea3e92_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Waitingforthe Sunrise_old;
+    src: url(https://cdn.crello.com/common/17c4732d-1a24-4d02-8de3-cb8b1bb009b5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Wire One_old;
+    src: url(https://cdn.crello.com/common/915cc993-6140-4ba2-973a-9a314e356087_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Yanone Kaffeesatz Bold_old;
+    src: url(https://cdn.crello.com/common/bcbc8ec7-1d0b-4b80-9ef1-d73b16178fe7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Yanone Kaffeesatz Extra Light_old;
+    src: url(https://cdn.crello.com/common/305c4ee7-ff02-4284-b564-5e70a3c1428e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Yanone Kaffeesatz Light_old;
+    src: url(https://cdn.crello.com/common/8c81d4bf-b3a7-4032-9812-4ff3bbb4f8d0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Yanone Kaffeesatz Regular_old;
+    src: url(https://cdn.crello.com/common/3aea9981-b322-4b7f-ada9-9e246629fcdc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Yellowtail Regular_old;
+    src: url(https://cdn.crello.com/common/8ebbef6c-0900-4f1a-b761-071d0dda6a4c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Yeseva One Regular_old;
+    src: url(https://cdn.crello.com/common/0178874e-ecf7-4443-905f-12f431f8b58c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Yesteryear Regular_old;
+    src: url(https://cdn.crello.com/common/d9140ed9-6c44-4354-9b51-fc4fd27ab0ce_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Zeyada_old;
+    src: url(https://cdn.crello.com/common/b540ec72-6910-4765-8fb7-4152f8c8afab_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Zeykfont Regular_old;
+    src: url(https://cdn.crello.com/common/9af4368f-450e-4948-9db3-53bfd634cb6f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Znikomit_old;
+    src: url(https://cdn.crello.com/common/d641dc9b-c037-4519-a285-6ec9ea8e74d3_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Znikomit No24_old;
+    src: url(https://cdn.crello.com/common/4a88d2cd-5586-4ca2-9416-e21ed37a75c1_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Znikomit No25_old;
+    src: url(https://cdn.crello.com/common/9a42c5a6-8ef6-4a2e-ba08-53bb8879d778_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Knewave_old;
+    src: url(https://cdn.crello.com/common/dfc27dc4-b326-446b-8ab7-3a134bb5e56a_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Knewave Outline_old;
+    src: url(https://cdn.crello.com/common/1fd5d986-4217-44c1-b33d-c231bcf8265f_normalized.otf)
+  }
+  
+  @font-face {
+    font-family: Okolaks Bold_old;
+    src: url(https://cdn.crello.com/common/2290bd21-b796-4de2-8bb9-79c34ceeae3b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Okolaks BoldItalic_old;
+    src: url(https://cdn.crello.com/common/1654822a-7eb9-4fd2-a2c7-ed4367d8d043_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Okolaks Regular_old;
+    src: url(https://cdn.crello.com/common/c63be32a-7a7c-44d9-b8c7-4bd1ea515c99_normalized.ttf)
+  }
+  
+  @font-face {
+    font-family: Okolaks Regular Italic_old;
+    src: url(https://cdn.crello.com/common/09ed575d-c531-498a-8961-a3186cd3437c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Okolaks;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2290bd21-b796-4de2-8bb9-79c34ceeae3b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Okolaks;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/09ed575d-c531-498a-8961-a3186cd3437c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Okolaks;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c63be32a-7a7c-44d9-b8c7-4bd1ea515c99_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Okolaks;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/1654822a-7eb9-4fd2-a2c7-ed4367d8d043_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Knewave;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/dfc27dc4-b326-446b-8ab7-3a134bb5e56a_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Gluk Znikomitno25;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9a42c5a6-8ef6-4a2e-ba08-53bb8879d778_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Znikomitno24;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4a88d2cd-5586-4ca2-9416-e21ed37a75c1_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Zeyada;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b540ec72-6910-4765-8fb7-4152f8c8afab_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Yesteryear;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d9140ed9-6c44-4354-9b51-fc4fd27ab0ce_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Yeseva One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0178874e-ecf7-4443-905f-12f431f8b58c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Yellowtail;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8ebbef6c-0900-4f1a-b761-071d0dda6a4c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Wire One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/915cc993-6140-4ba2-973a-9a314e356087_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Varela Round;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f92d97ca-6b68-4462-ba91-97cbeff1629f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: V T323;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ab00b293-6512-4b3f-881b-f2d7a3bef5f0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Text Me One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/fe2375f1-fe5c-4adf-bb2c-8401bd866184_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Superclarendon Regular;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a0eac4ba-0b69-4157-8a5f-f7de82d11ca9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Sunday;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5e50ce4a-f4cc-4c51-8e74-7dabe463155d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Suez One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/dc0aeb7b-1a2e-46b8-ac3a-ca874f2f62a4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Sue Ellen Francisco;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b801c7de-7541-42f9-806c-0edc9154a91f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Stalemate;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/974b05d2-880f-47f1-8970-5ad5c9cf6500_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Space Mono;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/18364e03-7dfc-4889-893c-ae8188d46fc3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Space Mono;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/c2861fdb-1ecd-42c9-ba3e-2e3b43534284_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Space Mono;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1a8b24e7-5d94-44a2-b5ad-8b1380440dca_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Space Mono;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/45b6fcb2-d08f-4f50-8500-28cfe9e8e2ff_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Six Caps;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0eeb359e-72f7-409f-b3b1-4d36fbaef4fc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Sirin Stencil;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/03d87967-7558-4896-8af4-590d92b6d9ae_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Shadows Into Light Two;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/48ff7bb8-86d0-493e-ae09-d87aef5370aa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Sensei;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/aca0e5f4-f4cd-42c7-ba0d-6d5ddf4708e7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Vast Shadow;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/842711c0-c30b-47d9-a044-480581dd06f6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Secular One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/db286c68-c79c-4355-b4bc-8614a0427f7a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Scope One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f67dc50f-48c7-4923-8955-bebf2edcbb7b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Satisfy;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f37eb579-dcd4-4b29-a96b-219e96679d7c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Sansita One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9816d3e2-a2dd-4652-834e-09b4c2cca2e2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Russo One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0cd40b17-9426-42f6-a4c1-48989d863ed9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Ruslan Display;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/461164ad-e2b0-40ec-83c4-c76e33e946c4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rubik One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ea6d06cb-18c3-44bd-8efc-ea2512508e87_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Rubik;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/7cae7e12-e26a-4b3e-8688-53ae2720a896_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rubik;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/4adfd371-fd13-4563-9099-e673cb9eb38f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rubik;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/734a0a61-dace-43d6-9114-c145b3861ae9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Rubik;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/89f9fed2-714d-47a4-9fa2-2941b4117f40_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Waiting For The Sunrise;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/17c4732d-1a24-4d02-8de3-cb8b1bb009b5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Rokkitt;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/7ffb35e4-b336-4e1b-ac91-cf9aa04086cb_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rokkitt;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0eba6663-fe93-4449-a262-7688e415a78b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rissa Typeface;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b99025f0-8de4-45cb-9713-df893a57dd69_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rise;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/396b0559-7078-4f4d-a86f-07b8c1e079c5_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Righteous;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a95bc561-dd20-4f61-9907-4a0fb8f821e6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Source Serif Pro;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2ae29508-4f66-4d18-87a4-a7639d1f7edc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Source Serif Pro;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8281c4fe-a183-4b6c-b6f5-73f94a236f58_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Reenie Beanie;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/29e185dc-f605-4b7a-aac5-a0b9d9aa02bb_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rationale;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4983745a-524d-4c7d-a721-acec44fcf866_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Raleway Dots;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/bfa3ca7f-ea5c-4a2a-b571-954a5c5ed2de_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Raleway;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1e0c77b5-59f5-4eef-b085-d405ad5d615b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Raleway;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/df38b06b-8116-482f-9342-c40e5a356cee_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Raleway;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3bdc0cb7-897d-42dd-bcfe-53ff80fcc4e3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Raleway;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/49244b16-bf28-4f7c-9e4e-88688dc7f23d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Racing Sans One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8355284b-b6dd-4df8-b2fe-052556cc9cc8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Quicksand;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5552fa50-2420-4cb8-9549-f49fdfd72843_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Quicksand;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b84fdc54-1b40-4b01-8a97-0f18cac21457_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Glass Antiqua;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/fd8b1ac6-0cfb-4557-96eb-c7e0fd8b3d89_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: IM Fell;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/e1cc3225-5c4b-40d2-b972-f3a9f7ab53e2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Arimo;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c7f832fa-2a2a-491f-9442-90728a095974_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Arimo;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/29a2253c-c475-4618-96d6-3d364e90beba_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Arimo;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3c6e2c6d-6387-4005-8b15-fac61b957ec0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Arimo;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/51c25379-fb96-4d06-9b66-1f50aa2f1a09_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Alef;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9b110c13-038b-4c38-a470-0be13dcbb7aa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Alef;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f7727056-b9e8-408e-aea8-b542b80d115d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Give You Glory;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1445ba11-ac30-47e5-9214-11096d63b671_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Farsan;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/fd8dbdcf-8663-4fa9-b2e8-62001623dee8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Lalezar;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8a72425a-54e4-4527-bf02-514378c208d2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Gaegu;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/feb39a81-c0b1-4efb-9386-244c05cce248.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Gaegu;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ac13ed2d-40b6-4c96-9544-3ab14c9c9852.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Cormorant Infant;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/58dceb22-f983-4fe5-b52d-41be448707ce_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cormorant Infant;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/4f665f44-fd3b-4e46-a758-a81f013e415b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cormorant Infant;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ad20eae9-1933-472e-9965-5433d648339e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Cormorant Infant;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/0c6c50ea-451e-4de5-8855-04e3184eaa18_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Old Standard TT;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/edd1789e-cef6-436f-a98e-4c4256b05e11_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Old Standard TT;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/939c6f8a-6c81-4d53-9564-409936e77d1f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Old Standard TT;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3396bf4c-004d-4631-94eb-c62ae03d4f60_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Ewert;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b66d5176-eea2-4f64-a172-743840e63532_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Euphoria Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/92aa4e35-01c8-4ce2-a652-e379bbbf0cb7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: GFS Didot;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1a691295-f5e7-4dcb-bec8-1ee538e04c5a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Monsieur La Doulaise;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a491857e-187b-407a-a525-5a9383709f3a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Parisienne;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/047f836c-0213-4c49-8ec6-669125553b22_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Dorsa;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1de7f235-5b4d-4fa5-aa21-8180c4e823f2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Bellefair;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/cbe98524-43f9-4525-b4be-f40e9233359f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Kaushan Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ab9f4727-3913-46fb-b224-070eab410466_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Delius;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d928e9ff-22c4-43fe-a647-979887c7f278_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Brusher Free Font;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/33ebc2a4-7902-478c-b2a0-70fdbb3c5a40_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Open Sans;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b1ededdd-bf60-4249-abf4-eb0ca980d487_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Open Sans;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/37b4c5d2-006c-466c-a3ec-0f4401ecbf0a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Open Sans;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2b33669b-b25b-49b7-bf36-816192c95818_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Open Sans;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/b02d7d1f-3d0b-4308-b478-7647d6dddfd8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Tinos;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/01374951-02c7-46f3-b737-f6febd978324_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Tinos;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/a32dbaf5-9a2c-400f-8df1-babced5c1b4f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Tinos;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2de4ca9a-30de-4cd2-bf84-96d91eb7bfa8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Tinos;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/6c78ae6e-cded-43ab-9528-2a05024e8d9a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Pattaya;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b5410bfe-49e0-4f0e-bc0f-b4e34b6b69cc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cedarville Cursive;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8721c799-f290-4032-8c73-fcc8a886e351_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Crete Round;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/a2fe8ec8-f93b-43a4-b9c5-8c334730afd2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Crete Round;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/29b97068-c2cc-4120-b635-d1cd879b6117_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: El Messiri;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4efff9fc-88dc-4fbe-8c93-aa99ce8b0c08_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: El Messiri;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1b67b78c-c91b-4995-8ec4-cc5fa7f520ff_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Creepster;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/40230a9e-907f-44d8-a3f5-99c88c8990b5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Rosario;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d6008b49-919b-4c6f-99b3-6c1dbf28be3c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rosario;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/3d08361f-d4a2-4bc0-86e8-161258fabec5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rosario;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a23aadac-3476-4b3c-93bd-0800aaaa1b3c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Rosario;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/b9ddcebb-052c-4e81-a5bd-9728b67614ff_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Iceland;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0b683344-9681-489d-bfb7-d243b037a468_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Vampiro One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/35709c27-334c-44e5-894b-cb7562fb0dcc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Fredericka The Great;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/56075691-613a-4761-82f7-441af2ccd7c6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Caveat;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a06855d9-1bac-42b1-b092-94b1035816ec_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Caveat;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5bc76cb6-f4f9-4321-b067-3b42fa2f1e86_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Fauna One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/e6c99c8b-cc53-41d1-b79c-7a192b4c7dda_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Knewave Outline;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1fd5d986-4217-44c1-b33d-c231bcf8265f_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Cabin Sketch;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8ccb351b-bf24-4dd0-be68-77fb690325b8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cabin Sketch;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/72a3a3f8-da4f-4df8-9b74-140dad542ded_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Copse;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/293fb3f3-2f30-40de-b25c-a8862d3df042_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Cousine;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/611863e6-a7b3-4811-824b-9aee5912b681_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cousine;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/d5a33d24-7a1d-4d8c-805b-2c950a668ba0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cousine;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/cd0cd044-993e-485e-835f-fae673c15692_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Cousine;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/fc834af5-6d91-4691-b415-43013635c8cb_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Dukomdesign Constantine;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f39d55ac-26e4-4018-86c6-3d1bfaf497dc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Barrio;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/985e163f-1417-494f-a06d-cd1e7633b214_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Economica;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5d71c34a-09ec-4164-88c0-7358793da3db_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Economica;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/7c34d9a7-52be-4f67-bb43-022bbe96ad7e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Economica;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/75591fdd-a5c9-437a-9223-31430c3c09b4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Economica;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/ce027191-ec28-408c-9648-2dd42c07017a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Buda;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/daaead7f-bdf7-4b59-8514-80c5f37508d5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Gabriela;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0f56a050-a52b-426c-b9ee-f97b527f28e9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Delius Swash Caps;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a9996b0e-7b42-4c57-914e-f3e005d0bbaf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Assistant;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/34cec70e-6232-47e6-a820-073092f211e2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Assistant;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/e728a3c5-c2c3-419b-b550-4cb8fcb5f985_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cutive Mono;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5a3af1a6-caf8-4ebf-be6a-246a70c512a6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Bentham;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4511e502-8c37-4d71-b8e0-7a52c048304a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Pacifico;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/15d9f1b7-51ae-4425-97fd-597201ae792b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Port Lligat Slab;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ea02ac1e-0acd-40b3-bef5-6440bada474c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Cantarell;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/95b930fc-5899-4433-bbb2-bede135551d0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cantarell;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/207f4620-89fc-4263-ab18-3487676cc11b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cantarell;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ce5652ae-8ddf-46ca-bacf-92b267eebf27_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Cantarell;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/e2dc1d68-3e29-414c-869e-3f1236fc732b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Permanent Marker;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0892e015-ed98-4653-aa01-cc4ed6722a5d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Armata;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/26dcd5c6-aa21-46e2-9dca-07a1ad81aad7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Geo;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/f1d6b6d7-ea0c-47b5-bb34-6fe134882ca0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Geo;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/6b19e1f6-26c6-4b5e-923d-da9a00c80f84_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Bangers;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/6c551c5a-b639-4170-ae16-7a6864410b1e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Arizonia;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8dcbfe7c-8c09-42d8-be6b-0e4a65bcf225_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Seymour One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4fd6a3bf-72c6-4b10-bb32-fad7e27f53c7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Chathura;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0598855e-1a73-4b84-835a-d19b0fc7cb0f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Chathura;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b6e1482b-f113-4c05-ac40-4355d327030b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Damion;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5aa92301-9202-4b0b-af05-c6cfaceb2e0f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Share Tech Mono;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/47228be9-11b5-4940-b223-182ff2fb06d5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Patrick Hand;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8210638c-054e-401b-b711-371d15721905_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Jacques Francois Shadow;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ddb9d2ea-c305-4fca-a10c-e2710cdd0cb8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Gluk Glametrix;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a65c8d16-bc71-48b8-9a9d-b8d0b5923b4f_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Gluk Glametrix;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5c67b2aa-ff9f-47cc-9e40-5658a10d63f8_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Limelight;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/6e45f566-8ca6-4070-954a-0748abb36d87_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: PT Sans Web;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/16f19765-27cc-4bbc-9966-7d8aeff70439_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: PT Sans Web;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/7c4f44de-852a-485d-9311-a9c6cda9c90d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: PT Sans Web;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/01209af4-fae6-4943-bb67-205eb54ddb96_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: PT Sans Web;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/6af98950-2ff1-4114-8cf4-1366bf9efcec_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Contrail One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d4de90ca-7713-486d-a07f-2ea6ae004c8f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Arima Madurai;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2fa58ac9-a887-42bd-90eb-ae86e1447383_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Arima Madurai;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8c46930d-e677-4f49-9582-0567e45f2356_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Bubbler One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b6ed80e4-1361-4635-9a48-d2c6cc64d5d2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Merriweather;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/84dac2e1-82c8-4d38-a45a-95a2faefad6e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Merriweather;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/d2b3dbbe-ecf3-4b6c-9538-b4fb02404e26_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Merriweather;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ecb41673-7caf-47c1-b33e-3b746eb9a39a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Merriweather;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/4e75a3d3-8472-4949-bc4c-d196bd776d3d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Stint Ultra Expanded;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8027ea2e-c22c-4221-958d-7d71e3ee657d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Faster One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a72d99a0-5475-4e07-a691-ac448a4c0b43_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Vollkorn;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3506bdaf-210e-43a3-b3ed-513d9fcf9e2e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Vollkorn;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/2a27ee17-8e6c-415f-a54f-1cdf69e78b86_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Vollkorn;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0e30b7ae-906a-4c8f-b914-75d8f4ea3e92_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Vollkorn;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/a25d9d2a-6788-4d8c-81fd-ed12cf0f5823_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Selima Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5cdb42b0-d7ac-4df5-8657-84ce60989da9_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rochester;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ab4c2e76-59da-466d-8c9c-791d270bf4ab_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Grand Hotel;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/7119d5bc-72c3-4aa7-9317-2a39bba61b1c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Comfortaa;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/bc693db8-1cff-454f-baa2-b31b3df8cb6b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Comfortaa;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c524acc4-24cf-4c72-b856-db77dc981559_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Philosopher;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/689e1440-37bc-4e08-bac3-23c8f4b63d07_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Philosopher;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/d520a48a-7c9f-404e-b341-1e3955d29fa7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Philosopher;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b1d7a087-a8a2-44ec-8c47-a8379ab555d0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Philosopher;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/706606a3-ea2a-412a-bfcf-0505ff94e6d1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Gluk Foglihtenno06;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/dd07b595-9d7a-49c0-a163-fbcfd18080d9_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Courgette;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0eedac97-c7bb-43f9-82aa-f840766a138f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Arapey;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/4feee22c-4abc-4274-85ff-8536f4988da9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Arapey;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d665d0bc-8739-4ca5-ab6c-8c28f1187c16_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Reem Kufi;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1eaf9c3c-5e01-4102-9686-8d6f559edfe4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Bad Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/7f226882-6d81-48e4-8a56-ec86c93b64cf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Alegreya Sans;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a141956c-d99c-45b5-821a-2f3befa418e8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Alegreya Sans;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/e369300d-5b98-49bd-8649-d5c99151dac2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Alegreya Sans;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5068e799-c0be-4a8c-b782-9322c09ed407_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Alegreya Sans;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/3808f98d-d33f-4619-a869-c5f3cde6b318_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Bungee;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9ac549cd-58d7-4497-b80b-883ec91a84d9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Montserrat;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0160409d-98d2-4978-9f5b-2acd6f15fa58_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Montserrat;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/ebb25f28-4fc0-422a-a3a7-2fe5193685ae_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Montserrat;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/dbcd8dae-8480-4096-bbd7-8da7d4f38b2b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Montserrat;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/39769ea9-3179-4164-b6a0-18e1037730ae_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Covered By Your Grace;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/40054738-2deb-4022-b668-fc25eb32036c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Playlist Caps;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c6d81438-572d-4ddd-97d0-e886d6d770a1_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Bungee Shade;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5425fd8e-d41b-47ed-867f-96113b16064f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Mr De Haviland;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/47c76e18-a893-4766-a572-d948143e8b56_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Arkana Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/adf6d861-17bf-4974-be4d-55562127cde5_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Pinyon Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/fa001ffb-b336-4921-aaf7-401026fa0347_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Caesar Dressing;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/6309754b-3649-4d19-a7a8-409785bf3b41_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Lovers Quarrel;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1dbdc9d7-0b4b-4cc6-a991-0565f4a8dbc8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Roboto;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5d79a7ba-2f55-41ec-9722-624e063605ce_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Roboto;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/89e3752a-f3b0-443e-993a-2185a3f06b1e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Roboto;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4aacb048-3614-45b8-9bf5-96f6a0e2bb33_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Roboto;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/da5f26f4-2ffb-4929-a234-6c62c66c8603_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Abril Fatface;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3276014d-dc9e-41a9-951f-5baae4f7bae2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Alfa Slab One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c6f9f837-c912-4f1f-b930-4f92ca3573d0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Breathe Press;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1000d7f9-bdac-4d67-ad07-2b944b98bf1b_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Dawning Of A New Day;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/35ed99cd-df39-4be2-8a90-e650eaa20576_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Anton;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/37958d69-362b-44f5-97da-fdead1679a3f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Breathe;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/49bb0628-514c-43b9-b80e-2d9afe387ab5_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Happy Monkey;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c8f87740-a3a4-44a8-a97e-e028db8c5b75_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Allura;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c0a4fb43-584a-4099-9336-716bd97f7bcf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Patua One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/442283eb-153d-4302-b488-2ff404315d1f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Didact Gothic;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ca566f35-2834-46f2-a3f4-3e290a1390b8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Forum;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2d286e83-e14c-4dc3-a549-ffb881e35e5b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Droid Serif;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/370b4e99-78f6-475b-ab4e-f8b53e488c77_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Droid Serif;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/322e701d-198d-4235-b63f-bae20ae9fae7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Droid Serif;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/6f3432e3-d9a6-4f9b-872c-f36bed4490dc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Droid Serif;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/e3aeb9e1-1531-4143-a5eb-7b94ca5f6a9f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Blogger;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/64b10073-6cb5-42fc-becb-26501802f0d9_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Blogger;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/e529f7ee-2f3d-426e-9719-d6d56602e47a_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Blogger;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f19ac81b-58be-4e0d-be6b-b41845ebcd8d_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Prompt;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/738bebc8-2e54-4dc1-aee6-2b738f85afa9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Prompt;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/6fc96ecc-c698-4c38-99b8-4f188000639c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Prompt;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/e5d3bb4b-9b0d-47d3-a74a-24400e1e87c1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Prompt;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/fa372275-aa43-4499-aa0e-608107752eea_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Bebas Neue;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ea5a4f52-b341-4cf7-b258-1755747256fe_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Bebas Neue;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c165bd88-ae3e-4f65-9db3-c37a2d24cffa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Nova Square;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d24d8e3d-c6eb-450a-a4b3-339738866993_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Aldrich;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/31850463-d708-40d5-8f3c-1522d7749c53_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Amatic SC;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/584d24da-b8d5-4d55-9c36-ba0caa9425c5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Amatic SC;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/96510cab-4be5-4c50-9fc7-eb57f189eba5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Dosis;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2e3f23bb-8f7d-47a0-b92b-71f97e5d870f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Dosis;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/216b5320-068d-46c6-b148-8b31451a9bc6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Pompiere;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/db108659-5541-46e2-8d93-519156a6c128_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Berkshire Swash;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5c468433-f4de-4a1b-84b1-35c5895b43d0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Allerta Stencil;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/791411cb-3d4f-4501-a27a-01ad48371dfa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Black Ops One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4d0a58dc-0e10-4d0d-9e4a-d277c6fa72e1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Dancing Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/eb6ef8b1-c67f-4ed7-8bcb-5f8161476903_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Dancing Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/7b98d2e6-3f2f-4df4-9739-0141a00c1f10_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Exo\ 2;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/942be59c-21e4-4203-9d1a-a8206548bdab_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Exo\ 2;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/4757ab95-a059-41d2-b294-b2edc71d2ecc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Exo\ 2;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/31156d2f-7a02-41b6-94dc-fcdb3713c10f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Exo\ 2;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/2177c680-25da-4619-a93f-f9797d19b9c9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Poiret One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/69115907-d1c0-4e0b-8ddc-a92d66214b61_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Titillium Web;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ced4ec68-fc9d-4163-a573-c49a14010be3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Titillium Web;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/5b01ab10-a5c8-46ec-b908-d64215d1be6b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Titillium Web;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9fdbca06-0322-48c8-8ea1-482e8592a70f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Titillium Web;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/28773211-e874-4ae4-bc3c-c30c010121be_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Elsie;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/75fd4ba2-f912-4271-9009-0df30b945989_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Beacon;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/02cf01df-6177-4684-950c-fbf0915c9d4e_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Frank Ruhl Libre;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/92bc8b04-f0fb-44f7-89e2-34c7cecc59ac_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Frank Ruhl Libre;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/afd4d497-f076-458e-b5cd-aee6afef864b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Josefin Sans;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a4176ad0-efa0-4955-ae34-867006456e1a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Josefin Sans;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/f6044d13-67b9-46b7-973a-868a15ccf0c1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Josefin Sans;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/737a3ebe-9e8c-4475-8ca1-4e1759d606de_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Josefin Sans;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/461af77d-d006-4daa-b62b-adc887fcdd90_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Elsie Swash Caps;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/df04c164-e0c4-4def-a770-63f3eb052f1a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Carter One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/18fb79d8-a8a6-4550-8599-71ee86fc8351_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Noticia Text;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f1bd52a1-c5b4-4e2a-8a26-37457958e834_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Noticia Text;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/ae2024db-0b46-405f-b0d4-7651c309ecd9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Noticia Text;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/fc38d571-4462-471d-9ddb-45c4beedf92a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Noticia Text;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/6011822b-6f8a-4b0e-b9f1-830d9eb8cd42_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Clicker Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d40e3dc4-af01-4e6d-ac58-d07e841b9f94_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Press Start\ 2P;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/06f713f2-7ca5-44a5-8170-908e7f60088e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Italiana;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2a1fdbc0-9893-46be-9a5e-b9220fe1c485_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Overlock;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/38c4bd9a-6bc3-47a8-adde-ec3aa119b186_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Overlock;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/6601d491-b685-4944-83ad-efb21afaf963_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Overlock;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/969d4c4f-ab07-4bcb-88f6-3fca6b66e31e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Overlock;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/c2e2e03f-df23-48a0-beeb-40f1e9112a29_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Marck Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0c8183a6-e8f4-4433-bd8c-a3699afa8954_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Gruppo;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/082b350f-d9d7-4673-a6d2-86d618c1de32_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Handlee;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/dd88cec2-8e8f-429d-b658-eac4fb1e7d84_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Londrina Sketch;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a9cf3216-58fb-4fb8-8eb6-a16bd55a3782_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Heebo;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/cac5208c-a575-42f9-8669-59c16151a84b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Heebo;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a82b1d48-ec21-427e-9027-2df1266178ad_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Nixie One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/e058e423-4e9d-48ac-8e0a-ce84dbccd4cf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Herr Von Muellerhoff;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/224deb9d-a6e3-4253-ad7a-0aa7973f5128_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Tulpen One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/e28804ba-f5b4-4eac-8e94-b84c49124ef2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Bilbo;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5de62a01-040c-49a2-911e-d28e970acbd5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Homemade Apple;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/52e9d0d1-a1fd-480d-9acd-f143a4e0daa3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: IM Fell DW Pica SC;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/968760ba-ce0d-4268-b835-b9076d286e45_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Iceberg;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/067faf66-1730-401a-a3ec-ee8c001374e4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Monda;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9bfb900a-b9e8-4c1d-9919-d3a0a09af13a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Monda;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c54cc6b0-07b4-4e1b-bf13-a51f32302fa2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Radley;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/e3a40527-d4f5-4f8f-a071-5022bf46f0a6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Radley;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d8a4764e-1fe9-4e5c-91f5-e43edbeb612f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Inconsolata;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/65da8149-d4f8-495f-9be9-bca42a838812_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Inconsolata;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/177e1b61-30f4-48a6-bcae-13bde81fd6d8_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Mrs Sheppards;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/75067114-54d4-451e-956c-6982b6b8ec71_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Play;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/82020494-65ec-43b4-acbb-a0723572caca_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Play;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/12fd1df4-5a76-4d44-b135-d388f1812b4c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rock Salt;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/fafae875-98df-4e4c-82fe-56c7a678759b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Baloo Tamma;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/cea7ce93-ec81-42e8-8825-540893a6baa5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Julius Sans One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/67fbdfa2-b47e-4741-afe5-78357a3a0a82_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Josefin Slab;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/603b5120-236c-4b14-ba5f-9207456a8499_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Josefin Slab;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/bb78678e-783d-4b7f-90fe-a5864344abf3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Josefin Slab;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/26963c78-4601-48e1-ade1-84680266064f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Josefin Slab;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/0a69a080-9629-48e1-bc4e-ec3f175247c0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Junge;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a8e2b80c-3543-4f5c-abb2-3c9f01648e07_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Jura;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/5010315b-3512-4774-a660-16cd94ae0599_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Just Me Again Down Here;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4a2713f1-eb4e-4244-86f3-0d752f554fb2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Znikomit;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d641dc9b-c037-4519-a285-6ec9ea8e74d3_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Kalam;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/cd113a2b-d857-44ac-ac6f-05f787fe2c90_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Kalam;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/e07a17bd-4fb6-4eb4-bada-c03d63504be0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rammetto One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/105d8644-9d5e-4661-8985-39f673841c56_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Katibeh;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/daab672b-76b8-4dce-889f-396432fd1080_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Kavivanar;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/104cc167-5e04-4bec-8131-72e147dc3b26_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Italianno;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/7a5973ac-b463-4018-a21c-36dbe094f102_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Libre Baskerville;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/793ebbad-da55-4ace-b68a-d120888edf6d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Libre Baskerville;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/334c6b12-bfbf-4551-9a9b-cba181cb7c8b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Libre Baskerville;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c0743d9c-912c-465c-9f1c-f2f3d35232dc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Cookie;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b1f64159-3f99-4b52-8277-44dd883de3d5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Kelly Slab;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/89e0e2de-adcd-4821-9819-1de1ddc48daf_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Kreon;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4e15e2fd-1c65-414a-bf8b-d898b6a31bf9_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Kreon;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9fcc37f7-c621-4290-adf8-d72cf0829417_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Kumar One Outline;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f0579c09-cda2-4255-ad4c-e7df0dc4477d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Kumar One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/fcb00711-3cf0-48bf-8975-1d2ba631673c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Pangolin;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9239cf5f-eb4e-4b20-9ae2-7ea5dfcedbe5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Podkova;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/de9812b6-11d5-4a69-ab3c-3d9d0c9780f5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Podkova;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c9946405-30a7-4927-a2b0-e7e25ab1dd9c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Yanone Kaffeesatz;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/bcbc8ec7-1d0b-4b80-9ef1-d73b16178fe7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Yanone Kaffeesatz;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3aea9981-b322-4b7f-ada9-9e246629fcdc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Kurale;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9da2f768-b09d-427b-8bae-1091f79ad396_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Architects Daughter;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ee4e9613-652d-4743-b1ef-e885e665743d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Alice;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/6b0b4dbe-3eda-489e-9024-cdeb0ba14831_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: La Belle Aurore;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b5c8c0d5-c2ba-486f-9c86-8b1023b6a3c0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: PT Sans;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/e1407432-9982-45ba-9d6a-93de08e7d57f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: PT Sans;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/ce32db24-a812-4081-ac64-4a1b546d1723_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: PT Sans;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/29d1bdc5-07c6-4e2e-847b-ffc41c6d0768_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: PT Sans;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/985e14ad-6e4b-4f67-9d26-29c49aea45e7_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Finger Paint;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8b5fa2b0-de98-4826-b4b1-2b3c3f5c155a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Lato;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/dc0f5029-74de-4b5c-8a58-4dafecddd5b5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Lato;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/82882dce-5e67-4b45-b43c-6f3f42762444_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Lato;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/706c28eb-aeaf-4762-bd9c-ba6a22ea5447_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Lato;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/3ee40d00-863a-4488-af29-f9aba3872989_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: League Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/08c29993-f4e9-4568-a97a-d6e8f7581305_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Lemon Tuesday;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8ebc1615-17df-406f-9600-e00681420cd2_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Londrina Shadow;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/eb5e8a1d-bef3-4e5b-8357-c29c52213982_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Gravitas One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c1a1bc70-40d2-435b-a4da-59e9e485746e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Montserrat Alternates;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4fe1675a-9887-484c-97e0-408fba97e6f6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Montserrat Alternates;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/c33ae686-8937-448b-a40d-9181eb2eb8e6_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Montserrat Alternates;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ef3643c8-df17-4683-a311-6d2e81d02c38_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Montserrat Alternates;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/89d0ef38-fc9f-4b5b-8ce5-a946d4b7a6f3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: EB Garamond;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/68ec41ce-c1be-4aa6-acbc-02b4431d1cfa_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Loved By The King;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/326a85ca-e5d4-4e9b-a432-65cb30b6cc72_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Underdog;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/8f70e0f7-5954-4265-a80d-b3d8541d4dfe_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Lauren;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3da3db9b-ea1c-4c5d-a2f8-f7f40f415381_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Graduate;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/00707068-bfb2-4073-b0a1-d9af9b6e49db_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Mr Dafoe;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1b0b8ab4-dfeb-4058-84a5-a7da04e68e2d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rye;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/0035956d-9c83-4d5d-9b48-eb3d8e9ae319_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Felipa;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/ecd40efa-ef81-49da-8f5a-78cbd0b3149f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Marcellus SC;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/fcc894c0-8a54-4811-be62-0245d06f6ade_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Oranienbaum;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/05ca73ea-4bb4-4878-a77f-847fa1e239b0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Mate;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/f954a161-6784-44a6-ae2b-2305317c211b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Mate;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/1869499f-22eb-4875-8594-6202eff9587a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Maven Pro;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2fa2c24c-d265-4997-a187-c9ff1c56b9a2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Maven Pro;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3297ff88-612a-4d6c-b473-693e9f0b559d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: David Libre;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a970440b-b006-49f7-aa06-4d90b8ab9420_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: David Libre;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/eafc4041-e423-4ae8-be77-f2e491e26480_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Meddon;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/13508ea4-84d4-4119-ba4e-c6ee31ba0a0c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Sacramento;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/a5022d7d-81c3-450f-890e-029b515e42d3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Quattrocento;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/fe259c7b-d7d1-4489-9199-5da491dd42e5_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Quattrocento;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/39c6526f-4ccb-49a1-8859-632dead7e0ad_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Nunito;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/168673c6-6a60-4561-bfcb-69580429a667_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Nunito;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/d71f021a-1dd7-449c-8f2b-0efc23f23951_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Medula One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/cbd04a02-da08-4b6f-93cf-a6c88bcc549e_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Mikodacs;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/32d55bbd-d09f-4509-9c64-de845552c95a_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Merienda One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/01491e71-77e5-4c9f-a0e3-0cde97fe3bac_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Miriam Libre;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/703a51ed-e8ee-4c16-9b43-d701dd82efb3_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Miriam Libre;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/e24e9645-b9ef-4557-8b94-1f29f45a5397_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Monofett;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/7cff7f7e-c946-4322-a017-12686fa80174_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Mrs Saint Delafield;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/b01e7162-0a56-4ce8-bd99-fd4ebcc3121f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Oswald;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/71ad2d0d-e96e-4a79-9721-3dcacb9aad5b_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Oswald;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/df9355eb-d20e-4a12-83fb-7134f722fad2_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Neucha;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/027b4e7f-4431-4303-acdf-351ada8bdb61_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Rakkas;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/c3f94004-50df-42e6-a5d0-f58e68108411_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Nothing You Could Do;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f3da3288-02ea-41a7-8312-a60098d7dbef_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Offside;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/751375a8-cc4a-485f-a0db-8be71c3f3efd_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Kristi;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/44fa2370-fe2a-4d35-b71d-49fc18ee8ec1_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Oleo Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/75eeb591-183c-467f-9853-ee709ed0e613_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Oleo Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/6d864565-dc7f-48c7-afa3-3c179818867c_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Orbitron;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/682cab73-4de9-4174-ac70-5f73bea604b0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Orbitron;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f45a6807-488f-4be7-93bc-9f2398f949d4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Oxygen;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/f7e18bcc-c058-44b8-a4c6-a50ef24b2e2d_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Oxygen;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4c7df27a-dfd3-4945-8462-07ac7d203a77_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Open Sans Condensed;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9b9f16b9-b583-42ea-a559-9e40b9fac906_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Pathway Gothic One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/de4093dc-d12f-4f3b-b6ba-a1f42bf96fb4_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Petit Formal Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3eedd0fc-f646-4f1d-beab-261f4ecb009a_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Zeyk;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/9af4368f-450e-4948-9db3-53bfd634cb6f_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Pirou;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/4e5b1918-df17-498f-a771-ec6653db691f_normalized.otf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Fjalla One;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/60d63316-f148-4125-9953-ae0c43b53dfb_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Great Vibes;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/3ff122cd-5ceb-4bba-8df5-64a4dcc13f50_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Playball;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/da32812f-d54c-452c-83a5-2fe4817c6286_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Playfair Display;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/59e27c46-683a-4ac3-9e56-04ce52dff199_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Playfair Display;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/62a6e312-f8e3-4aa0-8d0d-c90521fba988_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Playfair Display;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/917465c7-009a-4944-be2a-bdeabe345fe0_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 700;
+    font-family: Playfair Display;
+    font-style: italic;
+    src: url(https://cdn.crello.com/common/bfa9aaaf-a8b3-4042-8f49-5cf0400072bc_normalized.ttf)
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: Playlist Script;
+    font-style: normal;
+    src: url(https://cdn.crello.com/common/2942dda8-9629-46e2-99e5-c4e5a38a25ea_normalized.otf)
+  }

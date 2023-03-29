@@ -1,0 +1,9 @@
+name: crello-images
+columns:
+  image_hash:
+    is_sequence: true
+    dtype: string
+  image_embedding:
+    is_sequence: true
+    shape: [512]
+    dtype: float32
