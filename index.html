@@ -90,6 +90,12 @@
                                 <h4><strong>Code</strong></h4>
                             </a>
                         </li>
+                        <!-- <li>
+                            <a href="https://github.com/CyberAgentAILab/flex-dm">
+                            <image src="icon/github.png" height="60px">
+                                <h4><strong>Code</strong></h4>
+                            </a>
+                        </li> -->
                     </ul>
                 </div>
         </div>
@@ -102,13 +108,12 @@
             <div class="col-md-8 col-md-offset-2">
                 <div class="row">
                     <p class="text-center">
-                        <img src="images/teaser.png" class="img-rounded" height="270px">
+                        <img src="images/teaser.png" class="img-rounded" width="100%">
                     </p>
-                    <!-- <p class="text-center">
-                        <strong>Top</strong>: LayoutDM is trained to gradually generate a complete layout from a blank state in discrete state space. <br>
-                        <strong>Bottom</strong>: During sampling, we can steer LayoutDM to perform various conditional generation tasks <br>
-                        without additional training or external models.
-                    </p> -->
+                    <p class="text-center">
+                        Examples of the design tasks that can be solved by our proposed FlexDM model, which is designed to process a vector graphic document consisting of an arbitrary number of elements (e.g., text).
+                        Each element is composed of multi-modal fields indicating its attribute properties (e.g., text content, position, font color, etc.).
+                    </p>
                 </div>
             </div>
         </div>
@@ -122,6 +127,48 @@
                 <p class="text-justify">
                     Creative workflows for generating graphical documents involve complex inter-related tasks, such as aligning elements, choosing appropriate fonts, or employing aesthetically harmonious colors. In this work, we attempt at building a holistic model that can jointly solve many different design tasks. Our model, which we denote by FlexDM, treats vector graphic documents as a set of multi-modal elements, and learns to predict masked fields such as element type, position, styling attributes, image, or text, using a unified architecture. Through the use of explicit multi-task learning and in-domain pre-training, our model can better capture the multi-modal relationships among the different document fields. Experimental results corroborate that our single FlexDM is able to successfully solve a multitude of different design tasks, while achieving performance that is competitive with task-specific and costly baselines.
                 </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Model
+                </h3>
+                <p class="text-justify">
+                    We encode a vector graphic document into a 2D array of latent vectors.
+                    We perform <strong>masked field prediction</strong> as we do in images or texts.
+                    This way we can utilize masking patterns to switch among various design tasks within a single model.
+                </p>
+                <div class="row">
+                    <p class="text-center">
+                        <img src="images/overview_concepts_wider.png" class="img-rounded" width="75%">
+                    </p>
+                    <p class="text-center">
+                        <strong>Left</strong>: example of a vector graphic document.
+                        Each row / column in the array cossponds to a single element / an attribute or a group of attributes. <br>
+                        <strong>Right</strong>: Correspondence between design tasks and masking patterns for our masked field prediction
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Results
+                </h3>
+                <p class="text-justify">
+                    For more results, please refer to the <a href="pdfs/supplementary.pdf">supplementary material</a>.
+                </p>
+                <div class="row">
+                    <p class="text-center">
+                        <img src="images/crello_prediction.png" class="img-rounded" width="100%">
+                    </p>
+                    <p class="text-center">
+                        Prediction of our FlexDM model in crello dataset. [MASK] is visualized using default values.
+                    </p>
+                </div>
             </div>
         </div>
 
