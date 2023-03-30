@@ -49,7 +49,7 @@ You perform quantitative evaluation.
 ```bash
 bin/eval_mfp.sh --job_dir <JOB_DIR> (<ADDITIONAL_ARGS>)
 ```
-See `eval.py` for `<ADDITIONAL_ARGS>`.
+See [eval.py](https://github.com/CyberAgentAILab/flex-dm/blob/main/eval.py#L122-L134) for `<ADDITIONAL_ARGS>`.
 
 ## RICO experiments
 

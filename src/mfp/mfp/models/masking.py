@@ -267,38 +267,3 @@ def random_masking(
         masks[key] = mfp_mask
 
     return modified_inputs, masks
-
-
-# def random_masking(
-#     inputs: Dict[str, tf.Tensor],
-#     input_columns: Dict,
-#     mask: tf.Tensor,
-# ) -> Tuple[Dict[str, tf.Tensor], Dict[str, tf.Tensor]]:
-#     """
-#     Following MaskGIT, use truely random masking ratio
-#     """
-
-#     # run in eager mode because of random sampling outside tf function
-#     modified_inputs = {}
-#     masks = {}
-
-#     # for random masking
-#     for key, column in input_columns.items():
-#         # don't mask variables defined for canvas
-#         if not column["is_sequence"]:
-#             modified_inputs[key] = inputs[key]
-#             masks[key] = tf.fill(tf.shape(inputs[key]), True)
-#             continue
-
-#         # create mask with shape (B, S) while ignoring padded region
-#         rand_arr = tf.random.uniform(tf.shape(inputs[key])[:-1], minval=0.0, maxval=1.0)
-#         rand_thresh = tf.random.uniform(
-#             tf.shape(inputs[key])[:1], minval=0.0, maxval=1.0
-#         )
-#         mfp_mask = mask & (rand_arr < rand_thresh[:, tf.newaxis])
-#         masked_input = apply_token(inputs[key], column, mfp_mask, "masked")
-#         # update input
-#         modified_inputs[key] = masked_input
-#         masks[key] = mfp_mask
-
-#     return modified_inputs, masks
