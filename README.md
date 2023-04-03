@@ -1,5 +1,5 @@
 # Towards Flexible Multi-modal Document Models (CVPR2023)
-This repository is an official implementation of the paper titled above. Please refer to [project page](https://cyberagentailab.github.io/flex-dm/) or [paper](https://arxiv.org/abs/2303.08137) for more details.
+This repository is an official implementation of the paper titled above. Please refer to [project page](https://cyberagentailab.github.io/flex-dm/) or [paper](https://arxiv.org/abs/2303.18248) for more details.
 
 ## Setup
 
